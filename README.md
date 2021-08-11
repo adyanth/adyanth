@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=adyanth.dev&style=for-the-badge&url=https%3A%2F%2Fadyanth.dev)](https://adyanth.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adyanth_H?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdyanth_H&screen_name=Adyanth_H)
+[![Git Repo](https://img.shields.io/badge/Git%20Repo-git.adyanth.site-green?style=for-the-badge)](https://git.adyanth.site/adyanth)
 
 ## I'm a Developer, Network and Cybersecurity Engineer !!
 
@@ -35,32 +36,20 @@
 
 ---
 
-<details>
-  <summary>:zap: Most used languages</summary>
-  
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyanth&hide=javascript&count_private=true&theme=dark" />
+## :zap: Most used languages
 
-</details>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adyanth&hide=javascript&count_private=true&theme=dark)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/1) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-2. 🗣 Commented on [#966](https://github.com/QL-Win/QuickLook/issues/966) in [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
-3. 🗣 Commented on [#1](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/1) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-4. 🗣 Commented on [#6](https://github.com/adyanth/openwrt-tailscale-enabler/issues/6) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#16437](https://github.com/go-gitea/gitea/issues/16437) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 <!--END_SECTION:activity-->
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
-<img align="left" alt="Adyanth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adyanth&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-
-</details>
+![Adyanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adyanth&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 [website]: https://adyanth.dev/
 [twitter]: https://twitter.com/Adyanth_H
