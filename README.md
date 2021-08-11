@@ -1,24 +1,17 @@
 # Hi there, I'm [Adyanth][website] 👋
 
 [![Website](https://img.shields.io/website?label=adyanth.dev&style=for-the-badge&url=https%3A%2F%2Fadyanth.dev)](https://adyanth.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Adyanth_H?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdyanth_H&screen_name=Adyanth_H)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adyanth--h-blue?style=for-the-badge)](https://www.linkedin.com/in/adyanth-h/)
 [![Git Repo](https://img.shields.io/badge/Git%20Repo-git.adyanth.site-green?style=for-the-badge)](https://git.adyanth.site/adyanth)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Adyanth_H?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdyanth_H&screen_name=Adyanth_H)
 
-## I'm a Developer, Network and Cybersecurity Engineer !!
+## I'm a Developer, Network and Cybersecurity Engineer
 
-- 🔭 I set up [my site][website] and my [homelab](https://adyanth.site/series/homelab/) to run on Cloudflare!
+- 🔭 I've set up [my site][website] and my [homelab](https://adyanth.site/series/homelab/) to run on Cloudflare!
 - 🌱 I’m currently learning anything I get my hands on
 - 👯 I’m looking to expand my knowledge on [Golang](https://adyanth.site/tags/golang/) and [K8s](https://adyanth.site/tags/k8s/)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love technology and self-hosting
-
-### Connect with me
-
-[<img align="left" alt="adyanth.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Adyanth H | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Adyanth H | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
 
 <!-- ### Languages and Tools -->
 
