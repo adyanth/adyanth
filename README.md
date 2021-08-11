@@ -1,13 +1,13 @@
 # Hi there, I'm [Adyanth][website] 👋
 
-[![Website](https://img.shields.io/badge/Site-adyanth.dev-green?style=for-the-badge)](https://adyanth.dev/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/realAdyanthH?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrealAdyanthH&screen_name=realAdyanthH)
+[![Website](https://img.shields.io/website?label=adyanth.dev&style=for-the-badge&url=https%3A%2F%2Fadyanth.dev)](https://adyanth.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Adyanth_H?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdyanth_H&screen_name=Adyanth_H)
 
 ## I'm a Developer, Network and Cybersecurity Engineer !!
 
-- 🔭 I set up [my site][website] to run on Cloudflare!
+- 🔭 I set up [my site][website] and my [homelab](https://adyanth.site/series/homelab/) to run on Cloudflare!
 - 🌱 I’m currently learning anything I get my hands on
-- 👯 I’m looking to expand my knowledge on Golang and K8s
+- 👯 I’m looking to expand my knowledge on [Golang](https://adyanth.site/tags/golang/) and [K8s](https://adyanth.site/tags/k8s/)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love technology and self-hosting
 
@@ -63,5 +63,5 @@
 </details>
 
 [website]: https://adyanth.dev/
-[twitter]: https://twitter.com/realAdyanthH
+[twitter]: https://twitter.com/Adyanth_H
 [linkedin]: https://linkedin.com/in/adyanth-h/
