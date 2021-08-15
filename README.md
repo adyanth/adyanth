@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/1) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-2. 🗣 Commented on [#966](https://github.com/QL-Win/QuickLook/issues/966) in [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook)
-3. 🗣 Commented on [#1](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/1) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-4. 🗣 Commented on [#6](https://github.com/adyanth/openwrt-tailscale-enabler/issues/6) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#16437](https://github.com/go-gitea/gitea/issues/16437) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+1. 🗣 Commented on [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🎉 Merged PR [#7](https://github.com/adyanth/openwrt-tailscale-enabler/pull/7) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#7](https://github.com/adyanth/openwrt-tailscale-enabler/issues/7) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🗣 Commented on [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🎉 Merged PR [#1](https://github.com/adyanth/header-transform/pull/1) in [adyanth/header-transform](https://github.com/adyanth/header-transform)
 <!--END_SECTION:activity-->
 
 </details>
