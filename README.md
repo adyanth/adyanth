@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🎉 Merged PR [#7](https://github.com/adyanth/openwrt-tailscale-enabler/pull/7) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🗣 Commented on [#7](https://github.com/adyanth/openwrt-tailscale-enabler/issues/7) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. ❗️ Closed issue [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🎉 Merged PR [#8](https://github.com/adyanth/openwrt-tailscale-enabler/pull/8) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 💪 Opened PR [#8](https://github.com/adyanth/openwrt-tailscale-enabler/pull/8) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 4. 🗣 Commented on [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🎉 Merged PR [#1](https://github.com/adyanth/header-transform/pull/1) in [adyanth/header-transform](https://github.com/adyanth/header-transform)
+5. 🎉 Merged PR [#7](https://github.com/adyanth/openwrt-tailscale-enabler/pull/7) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
