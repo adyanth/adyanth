@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🎉 Merged PR [#8](https://github.com/adyanth/openwrt-tailscale-enabler/pull/8) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 💪 Opened PR [#8](https://github.com/adyanth/openwrt-tailscale-enabler/pull/8) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🎉 Merged PR [#7](https://github.com/adyanth/openwrt-tailscale-enabler/pull/7) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🗣 Commented on [#1023](https://github.com/abraunegg/onedrive/issues/1023) in [abraunegg/onedrive](https://github.com/abraunegg/onedrive)
+2. 🗣 Commented on [#1](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/1) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. ❗️ Closed issue [#5](https://github.com/adyanth/openwrt-tailscale-enabler/issues/5) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🎉 Merged PR [#8](https://github.com/adyanth/openwrt-tailscale-enabler/pull/8) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 💪 Opened PR [#8](https://github.com/adyanth/openwrt-tailscale-enabler/pull/8) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
