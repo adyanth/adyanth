@@ -41,8 +41,8 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-2. 🗣 Commented on [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
+1. 🗣 Commented on [#11](https://github.com/adyanth/traefik-container-manager/issues/11) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
+2. ❗️ Closed issue [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
 3. 🗣 Commented on [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
 4. 🗣 Commented on [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
 5. 🗣 Commented on [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
