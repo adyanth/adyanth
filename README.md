@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/adyanth/traefik-container-manager/issues/12) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-2. 🗣 Commented on [#12](https://github.com/adyanth/traefik-container-manager/issues/12) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-3. 🗣 Commented on [#11](https://github.com/adyanth/traefik-container-manager/issues/11) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-4. ❗️ Closed issue [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-5. 🗣 Commented on [#9](https://github.com/adyanth/traefik-container-manager/issues/9) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
+1. ❗️ Closed issue [#9](https://github.com/adyanth/openwrt-tailscale-enabler/issues/9) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🎉 Merged PR [#10](https://github.com/adyanth/openwrt-tailscale-enabler/pull/10) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#9](https://github.com/adyanth/openwrt-tailscale-enabler/issues/9) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🗣 Commented on [#12](https://github.com/adyanth/traefik-container-manager/issues/12) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
+5. 🗣 Commented on [#12](https://github.com/adyanth/traefik-container-manager/issues/12) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
 <!--END_SECTION:activity-->
 
 </details>
