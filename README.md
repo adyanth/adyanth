@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/3) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-2. 🗣 Commented on [#3](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/3) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-3. ❗️ Opened issue [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
-4. 🗣 Commented on [#1](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/1) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-5. 🗣 Commented on [#3](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/3) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+1. 🗣 Commented on [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
+2. ❗️ Closed issue [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
+3. ❗️ Closed issue [#3](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/3) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+4. 🗣 Commented on [#3](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/3) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+5. ❗️ Opened issue [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
 <!--END_SECTION:activity-->
 
 </details>
