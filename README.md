@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
-2. ❗️ Closed issue [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
-3. ❗️ Closed issue [#3](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/3) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-4. 🗣 Commented on [#3](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/3) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-5. ❗️ Opened issue [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
+1. 🎉 Merged PR [#11](https://github.com/adyanth/openwrt-tailscale-enabler/pull/11) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🗣 Commented on [#11](https://github.com/adyanth/openwrt-tailscale-enabler/issues/11) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#11](https://github.com/adyanth/openwrt-tailscale-enabler/issues/11) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🗣 Commented on [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
+5. ❗️ Closed issue [#1473](https://github.com/hashicorp/terraform-provider-vsphere/issues/1473) in [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere)
 <!--END_SECTION:activity-->
 
 </details>
