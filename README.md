@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. ❗️ Closed issue [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 2. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 3. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-4. 🗣 Commented on [#724](https://github.com/tailscale/tailscale/issues/724) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-5. 🗣 Commented on [#724](https://github.com/tailscale/tailscale/issues/724) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+4. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+5. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 <!--END_SECTION:activity-->
 
 </details>
