@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-2. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-3. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-4. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-5. 🗣 Commented on [#2](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/2) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. ❗️ Closed issue [#296](https://github.com/bastienwirtz/homer/issues/296) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+2. 🗣 Commented on [#296](https://github.com/bastienwirtz/homer/issues/296) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+3. ❗️ Closed issue [#864](https://github.com/pi-hole/docker-pi-hole/issues/864) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+4. 🗣 Commented on [#864](https://github.com/pi-hole/docker-pi-hole/issues/864) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+5. 🗣 Commented on [#296](https://github.com/bastienwirtz/homer/issues/296) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
 <!--END_SECTION:activity-->
 
 </details>
