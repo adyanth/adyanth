@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13304](https://github.com/minio/minio/issues/13304) in [minio/minio](https://github.com/minio/minio)
-2. ❗️ Opened issue [#13304](https://github.com/minio/minio/issues/13304) in [minio/minio](https://github.com/minio/minio)
-3. ❗️ Closed issue [#296](https://github.com/bastienwirtz/homer/issues/296) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-4. 🗣 Commented on [#296](https://github.com/bastienwirtz/homer/issues/296) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-5. ❗️ Closed issue [#864](https://github.com/pi-hole/docker-pi-hole/issues/864) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+1. 💪 Opened PR [#22](https://github.com/devinotelecom/prometheus-vmware-exporter/pull/22) in [devinotelecom/prometheus-vmware-exporter](https://github.com/devinotelecom/prometheus-vmware-exporter)
+2. ❌ Closed PR [#1](https://github.com/BaronMsk/prometheus-vmware-exporter/pull/1) in [BaronMsk/prometheus-vmware-exporter](https://github.com/BaronMsk/prometheus-vmware-exporter)
+3. 💪 Opened PR [#1](https://github.com/BaronMsk/prometheus-vmware-exporter/pull/1) in [BaronMsk/prometheus-vmware-exporter](https://github.com/BaronMsk/prometheus-vmware-exporter)
+4. 🗣 Commented on [#13304](https://github.com/minio/minio/issues/13304) in [minio/minio](https://github.com/minio/minio)
+5. 🗣 Commented on [#296](https://github.com/bastienwirtz/homer/issues/296) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
 <!--END_SECTION:activity-->
 
 </details>
