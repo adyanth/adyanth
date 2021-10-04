@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#131](https://github.com/gitpod-io/openvscode-server/issues/131) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
-2. 💪 Opened PR [#22](https://github.com/devinotelecom/prometheus-vmware-exporter/pull/22) in [devinotelecom/prometheus-vmware-exporter](https://github.com/devinotelecom/prometheus-vmware-exporter)
-3. ❌ Closed PR [#1](https://github.com/BaronMsk/prometheus-vmware-exporter/pull/1) in [BaronMsk/prometheus-vmware-exporter](https://github.com/BaronMsk/prometheus-vmware-exporter)
-4. 💪 Opened PR [#1](https://github.com/BaronMsk/prometheus-vmware-exporter/pull/1) in [BaronMsk/prometheus-vmware-exporter](https://github.com/BaronMsk/prometheus-vmware-exporter)
-5. 🗣 Commented on [#13304](https://github.com/minio/minio/issues/13304) in [minio/minio](https://github.com/minio/minio)
+1. ❗️ Opened issue [#94](https://github.com/lukePeavey/quotable/issues/94) in [lukePeavey/quotable](https://github.com/lukePeavey/quotable)
+2. ❗️ Opened issue [#131](https://github.com/gitpod-io/openvscode-server/issues/131) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
+3. 💪 Opened PR [#22](https://github.com/devinotelecom/prometheus-vmware-exporter/pull/22) in [devinotelecom/prometheus-vmware-exporter](https://github.com/devinotelecom/prometheus-vmware-exporter)
+4. ❌ Closed PR [#1](https://github.com/BaronMsk/prometheus-vmware-exporter/pull/1) in [BaronMsk/prometheus-vmware-exporter](https://github.com/BaronMsk/prometheus-vmware-exporter)
+5. 💪 Opened PR [#1](https://github.com/BaronMsk/prometheus-vmware-exporter/pull/1) in [BaronMsk/prometheus-vmware-exporter](https://github.com/BaronMsk/prometheus-vmware-exporter)
 <!--END_SECTION:activity-->
 
 </details>
