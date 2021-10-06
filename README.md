@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/gitpod-io/openvscode-server/issues/131) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
-2. ❗️ Opened issue [#94](https://github.com/lukePeavey/quotable/issues/94) in [lukePeavey/quotable](https://github.com/lukePeavey/quotable)
-3. ❗️ Opened issue [#131](https://github.com/gitpod-io/openvscode-server/issues/131) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
-4. 💪 Opened PR [#22](https://github.com/devinotelecom/prometheus-vmware-exporter/pull/22) in [devinotelecom/prometheus-vmware-exporter](https://github.com/devinotelecom/prometheus-vmware-exporter)
-5. ❌ Closed PR [#1](https://github.com/BaronMsk/prometheus-vmware-exporter/pull/1) in [BaronMsk/prometheus-vmware-exporter](https://github.com/BaronMsk/prometheus-vmware-exporter)
+1. ❗️ Closed issue [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+2. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+4. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+5. 🗣 Commented on [#131](https://github.com/gitpod-io/openvscode-server/issues/131) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
 <!--END_SECTION:activity-->
 
 </details>
