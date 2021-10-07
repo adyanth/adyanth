@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-2. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-3. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. ❗️ Closed issue [#4](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/4) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+2. 🗣 Commented on [#4](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/4) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. ❗️ Closed issue [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 4. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-5. 🗣 Commented on [#131](https://github.com/gitpod-io/openvscode-server/issues/131) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
+5. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 <!--END_SECTION:activity-->
 
 </details>
