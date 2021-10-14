@@ -41,10 +41,10 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/4) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-2. 🗣 Commented on [#4](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/4) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-3. ❗️ Closed issue [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-4. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. ❗️ Opened issue [#791](https://github.com/rancher-sandbox/rancher-desktop/issues/791) in [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)
+2. ❗️ Closed issue [#4](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/4) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. 🗣 Commented on [#4](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/4) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+4. ❗️ Closed issue [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 5. 🗣 Commented on [#3](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/3) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 <!--END_SECTION:activity-->
 
