@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/1) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-2. ❗️ Closed issue [#1](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/1) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-3. 🗣 Commented on [#13](https://github.com/adyanth/openwrt-tailscale-enabler/issues/13) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. ❗️ Opened issue [#791](https://github.com/rancher-sandbox/rancher-desktop/issues/791) in [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop)
-5. ❗️ Closed issue [#4](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/4) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. 🗣 Commented on [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🗣 Commented on [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#1](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/1) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+4. ❗️ Closed issue [#1](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/1) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+5. 🗣 Commented on [#13](https://github.com/adyanth/openwrt-tailscale-enabler/issues/13) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
