@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🗣 Commented on [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. ❗️ Closed issue [#12](https://github.com/adyanth/traefik-container-manager/issues/12) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
+2. 🗣 Commented on [#12](https://github.com/adyanth/traefik-container-manager/issues/12) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
 3. 🗣 Commented on [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#1](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/1) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-5. ❗️ Closed issue [#1](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/1) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+4. 🗣 Commented on [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
