@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/gitpod-io/openvscode-server/issues/131) in [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server)
-2. 🗣 Commented on [#5](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/5) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-3. 🎉 Merged PR [#16](https://github.com/adyanth/openwrt-tailscale-enabler/pull/16) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#16](https://github.com/adyanth/openwrt-tailscale-enabler/issues/16) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🗣 Commented on [#8](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/8) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+2. 🗣 Commented on [#7](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/7) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+3. 🎉 Merged PR [#9](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/9) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+4. 💪 Opened PR [#9](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/9) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+5. ❗️ Closed issue [#5](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/5) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
 <!--END_SECTION:activity-->
 
 </details>
