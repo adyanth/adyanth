@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/8) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-2. 🗣 Commented on [#7](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/7) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-3. 🎉 Merged PR [#9](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/9) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-4. 💪 Opened PR [#9](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/9) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-5. ❗️ Closed issue [#5](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/5) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+1. 🗣 Commented on [#7](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/7) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+2. 🎉 Merged PR [#11](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/11) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+3. ❗️ Closed issue [#7](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/7) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+4. 💪 Opened PR [#11](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/11) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+5. 🎉 Merged PR [#10](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/10) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
 <!--END_SECTION:activity-->
 
 </details>
