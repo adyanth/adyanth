@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/7) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-2. 🎉 Merged PR [#11](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/11) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-3. ❗️ Closed issue [#7](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/7) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-4. 💪 Opened PR [#11](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/11) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-5. 🎉 Merged PR [#10](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/10) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+1. ❌ Closed PR [#1](https://github.com/adyanth/shortpaste/pull/1) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. ❌ Closed PR [#2](https://github.com/adyanth/shortpaste/pull/2) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. ❌ Closed PR [#3](https://github.com/adyanth/shortpaste/pull/3) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 🗣 Commented on [#7](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/7) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+5. 🎉 Merged PR [#11](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/11) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
 <!--END_SECTION:activity-->
 
 </details>
