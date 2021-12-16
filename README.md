@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#510](https://github.com/cloudflare/cloudflared/issues/510) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-2. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
-3. ❌ Closed PR [#1](https://github.com/adyanth/shortpaste/pull/1) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. ❌ Closed PR [#2](https://github.com/adyanth/shortpaste/pull/2) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. ❌ Closed PR [#3](https://github.com/adyanth/shortpaste/pull/3) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🗣 Commented on [#6817](https://github.com/Radarr/Radarr/issues/6817) in [Radarr/Radarr](https://github.com/Radarr/Radarr)
+2. 🗣 Commented on [#6817](https://github.com/Radarr/Radarr/issues/6817) in [Radarr/Radarr](https://github.com/Radarr/Radarr)
+3. 🗣 Commented on [#6817](https://github.com/Radarr/Radarr/issues/6817) in [Radarr/Radarr](https://github.com/Radarr/Radarr)
+4. ❗️ Opened issue [#6817](https://github.com/Radarr/Radarr/issues/6817) in [Radarr/Radarr](https://github.com/Radarr/Radarr)
+5. 🗣 Commented on [#510](https://github.com/cloudflare/cloudflared/issues/510) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 <!--END_SECTION:activity-->
 
 </details>
