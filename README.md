@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-2. 🎉 Merged PR [#13](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/13) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-3. 💪 Opened PR [#13](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/13) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-4. 🗣 Commented on [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-5. 🗣 Commented on [#6817](https://github.com/Radarr/Radarr/issues/6817) in [Radarr/Radarr](https://github.com/Radarr/Radarr)
+1. 🗣 Commented on [#45](https://github.com/hashicorp/packer-plugin-hyperv/issues/45) in [hashicorp/packer-plugin-hyperv](https://github.com/hashicorp/packer-plugin-hyperv)
+2. ❗️ Closed issue [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+3. 🎉 Merged PR [#13](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/13) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+4. 💪 Opened PR [#13](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/13) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+5. 🗣 Commented on [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
 <!--END_SECTION:activity-->
 
 </details>
