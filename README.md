@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/hashicorp/packer-plugin-hyperv/issues/45) in [hashicorp/packer-plugin-hyperv](https://github.com/hashicorp/packer-plugin-hyperv)
-2. ❗️ Closed issue [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-3. 🎉 Merged PR [#13](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/13) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-4. 💪 Opened PR [#13](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/13) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
-5. 🗣 Commented on [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+1. 🗣 Commented on [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
+2. ❗️ Opened issue [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
+3. 🗣 Commented on [#45](https://github.com/hashicorp/packer-plugin-hyperv/issues/45) in [hashicorp/packer-plugin-hyperv](https://github.com/hashicorp/packer-plugin-hyperv)
+4. ❗️ Closed issue [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+5. 🎉 Merged PR [#13](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/13) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
 <!--END_SECTION:activity-->
 
 </details>
