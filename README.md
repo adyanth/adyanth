@@ -41,11 +41,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/adyanth/shortpaste/pull/4) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 🗣 Commented on [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
-3. ❗️ Opened issue [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
-4. 🗣 Commented on [#45](https://github.com/hashicorp/packer-plugin-hyperv/issues/45) in [hashicorp/packer-plugin-hyperv](https://github.com/hashicorp/packer-plugin-hyperv)
-5. ❗️ Closed issue [#12](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/12) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+1. ❗️ Opened issue [#536](https://github.com/cloudflare/cloudflared/issues/536) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
+2. ❌ Closed PR [#5](https://github.com/adyanth/shortpaste/pull/5) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. ❌ Closed PR [#4](https://github.com/adyanth/shortpaste/pull/4) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 🗣 Commented on [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
+5. ❗️ Opened issue [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
 <!--END_SECTION:activity-->
 
 </details>
