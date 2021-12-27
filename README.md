@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#536](https://github.com/cloudflare/cloudflared/issues/536) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-2. ❌ Closed PR [#5](https://github.com/adyanth/shortpaste/pull/5) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. ❌ Closed PR [#4](https://github.com/adyanth/shortpaste/pull/4) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. 🗣 Commented on [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
-5. ❗️ Opened issue [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
+1. 🗣 Commented on [#194](https://github.com/bastienwirtz/homer/issues/194) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+2. ❗️ Opened issue [#536](https://github.com/cloudflare/cloudflared/issues/536) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
+3. ❌ Closed PR [#5](https://github.com/adyanth/shortpaste/pull/5) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. ❌ Closed PR [#4](https://github.com/adyanth/shortpaste/pull/4) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 🗣 Commented on [#48](https://github.com/traefik/whoami/issues/48) in [traefik/whoami](https://github.com/traefik/whoami)
 <!--END_SECTION:activity-->
 
 </details>
