@@ -25,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Redundancy for DNS: Keepalived + Gravity Sync](https://adyanth.site/posts/redundancy-keepalived-gravitysync/)
-- [Pi-hole](https://adyanth.site/posts/pi-hole/)
+- [Pi-hole – Network-wide protection](https://adyanth.site/posts/pi-hole/)
 - [Deploying an application on Kubernetes with Rancher](https://adyanth.site/posts/deploying-an-app-on-rancher-kubernetes/)
 - [Kubernetes Cluster with Rancher on Windows using K3s](https://adyanth.site/posts/kubernetes-cluster-on-windows/)
 - [Short{Paste}: A Weekend Project in Go and Vue](https://adyanth.site/posts/shortpaste-a-weekend-project/)
