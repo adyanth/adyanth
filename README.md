@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2416](https://github.com/kubernetes-sigs/external-dns/issues/2416) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-2. ❗️ Opened issue [#2497](https://github.com/kubernetes-sigs/external-dns/issues/2497) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-3. 🗣 Commented on [#194](https://github.com/bastienwirtz/homer/issues/194) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-4. ❗️ Opened issue [#536](https://github.com/cloudflare/cloudflared/issues/536) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-5. ❌ Closed PR [#5](https://github.com/adyanth/shortpaste/pull/5) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. ❌ Closed PR [#6](https://github.com/adyanth/shortpaste/pull/6) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. 🗣 Commented on [#2416](https://github.com/kubernetes-sigs/external-dns/issues/2416) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+3. ❗️ Opened issue [#2497](https://github.com/kubernetes-sigs/external-dns/issues/2497) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+4. 🗣 Commented on [#194](https://github.com/bastienwirtz/homer/issues/194) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+5. ❗️ Opened issue [#536](https://github.com/cloudflare/cloudflared/issues/536) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 <!--END_SECTION:activity-->
 
 </details>
