@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/adyanth/shortpaste/issues/7) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 🗣 Commented on [#7](https://github.com/adyanth/shortpaste/issues/7) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. ❌ Closed PR [#6](https://github.com/adyanth/shortpaste/pull/6) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. 🗣 Commented on [#2416](https://github.com/kubernetes-sigs/external-dns/issues/2416) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-5. ❗️ Opened issue [#2497](https://github.com/kubernetes-sigs/external-dns/issues/2497) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+1. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+2. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+3. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
+4. 🗣 Commented on [#7](https://github.com/adyanth/shortpaste/issues/7) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 🗣 Commented on [#7](https://github.com/adyanth/shortpaste/issues/7) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
