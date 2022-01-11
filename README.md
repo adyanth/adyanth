@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/wiorca/docker-windscribe/issues/5) in [wiorca/docker-windscribe](https://github.com/wiorca/docker-windscribe)
-2. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
-3. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
-4. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
-5. 🗣 Commented on [#7](https://github.com/adyanth/shortpaste/issues/7) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🎉 Merged PR [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/pull/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+2. 🗣 Commented on [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. 🗣 Commented on [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+4. 🗣 Commented on [#5](https://github.com/wiorca/docker-windscribe/issues/5) in [wiorca/docker-windscribe](https://github.com/wiorca/docker-windscribe)
+5. 🗣 Commented on [#860](https://github.com/pi-hole/docker-pi-hole/issues/860) in [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole)
 <!--END_SECTION:activity-->
 
 </details>
