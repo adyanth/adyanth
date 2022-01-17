@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/adyanth/shortpaste/pull/9) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. ❌ Closed PR [#8](https://github.com/adyanth/shortpaste/pull/8) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. 🎉 Merged PR [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/pull/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-4. 🗣 Commented on [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-5. 🗣 Commented on [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. 🎉 Merged PR [#1](https://github.com/adyanth/cloudflare-operator/pull/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 💪 Opened PR [#1](https://github.com/adyanth/cloudflare-operator/pull/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❌ Closed PR [#9](https://github.com/adyanth/shortpaste/pull/9) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. ❌ Closed PR [#8](https://github.com/adyanth/shortpaste/pull/8) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 🎉 Merged PR [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/pull/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 <!--END_SECTION:activity-->
 
 </details>
