@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adyanth/cloudflare-operator/pull/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 💪 Opened PR [#1](https://github.com/adyanth/cloudflare-operator/pull/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❌ Closed PR [#9](https://github.com/adyanth/shortpaste/pull/9) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. ❌ Closed PR [#8](https://github.com/adyanth/shortpaste/pull/8) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 🎉 Merged PR [#6](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/pull/6) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. ❗️ Opened issue [#5](https://github.com/adyanth/cloudflare-operator/issues/5) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🎉 Merged PR [#4](https://github.com/adyanth/cloudflare-operator/pull/4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗️ Closed issue [#3](https://github.com/adyanth/cloudflare-operator/issues/3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 💪 Opened PR [#4](https://github.com/adyanth/cloudflare-operator/pull/4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. ❗️ Opened issue [#3](https://github.com/adyanth/cloudflare-operator/issues/3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
