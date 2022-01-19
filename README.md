@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/adyanth/cloudflare-operator/issues/5) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🎉 Merged PR [#4](https://github.com/adyanth/cloudflare-operator/pull/4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Closed issue [#3](https://github.com/adyanth/cloudflare-operator/issues/3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#4](https://github.com/adyanth/cloudflare-operator/pull/4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. ❗️ Opened issue [#3](https://github.com/adyanth/cloudflare-operator/issues/3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#659](https://github.com/pi-hole/FTL/issues/659) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
+2. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
+3. 🗣 Commented on [#8124](https://github.com/traefik/traefik/issues/8124) in [traefik/traefik](https://github.com/traefik/traefik)
+4. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
+5. 🗣 Commented on [#659](https://github.com/pi-hole/FTL/issues/659) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
 <!--END_SECTION:activity-->
 
 </details>
