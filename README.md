@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#659](https://github.com/pi-hole/FTL/issues/659) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
-2. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
-3. 🗣 Commented on [#8124](https://github.com/traefik/traefik/issues/8124) in [traefik/traefik](https://github.com/traefik/traefik)
-4. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
-5. 🗣 Commented on [#659](https://github.com/pi-hole/FTL/issues/659) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
+1. ❗️ Opened issue [#2526](https://github.com/kubernetes-sigs/external-dns/issues/2526) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+2. 🗣 Commented on [#659](https://github.com/pi-hole/FTL/issues/659) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
+3. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
+4. 🗣 Commented on [#8124](https://github.com/traefik/traefik/issues/8124) in [traefik/traefik](https://github.com/traefik/traefik)
+5. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
 <!--END_SECTION:activity-->
 
 </details>
