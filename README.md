@@ -42,10 +42,10 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2526](https://github.com/kubernetes-sigs/external-dns/issues/2526) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-2. 🗣 Commented on [#659](https://github.com/pi-hole/FTL/issues/659) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
-3. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
-4. 🗣 Commented on [#8124](https://github.com/traefik/traefik/issues/8124) in [traefik/traefik](https://github.com/traefik/traefik)
+1. ❗️ Opened issue [#10](https://github.com/adyanth/cloudflare-operator/issues/10) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❌ Closed PR [#10](https://github.com/adyanth/shortpaste/pull/10) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. ❗️ Opened issue [#2526](https://github.com/kubernetes-sigs/external-dns/issues/2526) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+4. 🗣 Commented on [#659](https://github.com/pi-hole/FTL/issues/659) in [pi-hole/FTL](https://github.com/pi-hole/FTL)
 5. 🗣 Commented on [#8123](https://github.com/traefik/traefik/issues/8123) in [traefik/traefik](https://github.com/traefik/traefik)
 <!--END_SECTION:activity-->
 
