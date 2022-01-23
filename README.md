@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Tunnel Operator: Architecture](https://adyanth.site/posts/migration-compose-k8s/cloudflare-tunnel-operator-architecture/)
+- [Building a Kubernetes Operator: Why and How](https://adyanth.site/posts/migration-compose-k8s/building-k8s-operator/)
+- [Migration from Compose to Kubernetes](https://adyanth.site/posts/migration-compose-k8s/preface/)
 - [Docker Desktop Replacement: macOS Editon](https://adyanth.site/posts/docker-desktop-replacement-macos/)
 - [Cloudflare for Everything](https://adyanth.site/posts/cloudflare-for-everything/)
-- [Photon OS: A Perfect base for Docker and Kubernetes](https://adyanth.site/posts/photon-os/)
-- [Redundancy for DNS: Keepalived + Gravity Sync](https://adyanth.site/posts/redundancy-keepalived-gravitysync/)
-- [Pi-hole – Network-wide protection](https://adyanth.site/posts/pi-hole/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://adyanth.dev/archives/)
