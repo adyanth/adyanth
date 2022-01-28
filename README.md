@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/adyanth/cloudflare-operator/issues/12) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🎉 Merged PR [#11](https://github.com/adyanth/cloudflare-operator/pull/11) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Closed issue [#6](https://github.com/adyanth/cloudflare-operator/issues/6) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#11](https://github.com/adyanth/cloudflare-operator/pull/11) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#5](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/5) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. ❗️ Closed issue [#14](https://github.com/CiscoDevNet/terraform-provider-fmc/issues/14) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+2. 🎉 Merged PR [#15](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/15) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+3. 💪 Opened PR [#15](https://github.com/CiscoDevNet/terraform-provider-fmc/pull/15) in [CiscoDevNet/terraform-provider-fmc](https://github.com/CiscoDevNet/terraform-provider-fmc)
+4. ❗️ Opened issue [#12](https://github.com/adyanth/cloudflare-operator/issues/12) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#11](https://github.com/adyanth/cloudflare-operator/pull/11) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
