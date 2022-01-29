@@ -10,7 +10,7 @@
 - 🔭 I've set up [my site][website] and my [homelab](https://adyanth.site/series/homelab/) to run on Cloudflare!
 - 🌱 I’m currently learning anything I get my hands on
 - 🏢 I'm working on network security and automation
-- 👯 I’m looking to expand my knowledge on [Golang](https://adyanth.site/tags/golang/) and [K8s](https://adyanth.site/tags/k8s/)
+- 👯 I’m looking to expand my knowledge on [Golang](https://adyanth.site/tags/golang/) and [K8s](https://adyanth.site/tags/kubernetes/)
 - 🥅 2022 Goals: Contribute more to open source projects, document as much as possible
 - ⚡ Fun fact: I love technology and self-hosting
 
