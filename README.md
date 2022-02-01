@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-2. 🎉 Merged PR [#17](https://github.com/adyanth/cloudflare-operator/pull/17) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 💪 Opened PR [#17](https://github.com/adyanth/cloudflare-operator/pull/17) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Closed issue [#9](https://github.com/adyanth/cloudflare-operator/issues/9) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🎉 Merged PR [#16](https://github.com/adyanth/cloudflare-operator/pull/16) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#181](https://github.com/cloudflare/cloudflare-go/issues/181) in [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go)
+2. 🗣 Commented on [#144](https://github.com/cloudflare/cloudflared/issues/144) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
+3. ❗️ Opened issue [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+4. 🎉 Merged PR [#17](https://github.com/adyanth/cloudflare-operator/pull/17) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#17](https://github.com/adyanth/cloudflare-operator/pull/17) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
