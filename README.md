@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/adyanth/cloudflare-operator/issues/21) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🎉 Merged PR [#22](https://github.com/adyanth/cloudflare-operator/pull/22) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Closed issue [#20](https://github.com/adyanth/cloudflare-operator/issues/20) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#22](https://github.com/adyanth/cloudflare-operator/pull/22) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. ❗️ Opened issue [#21](https://github.com/adyanth/cloudflare-operator/issues/21) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#51071](https://github.com/golang/go/issues/51071) in [golang/go](https://github.com/golang/go)
+2. ❗️ Opened issue [#18694](https://github.com/go-gitea/gitea/issues/18694) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. ❗️ Closed issue [#21](https://github.com/adyanth/cloudflare-operator/issues/21) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🎉 Merged PR [#22](https://github.com/adyanth/cloudflare-operator/pull/22) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. ❗️ Closed issue [#20](https://github.com/adyanth/cloudflare-operator/issues/20) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
