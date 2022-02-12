@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8124](https://github.com/traefik/traefik/issues/8124) in [traefik/traefik](https://github.com/traefik/traefik)
-2. 🗣 Commented on [#51071](https://github.com/golang/go/issues/51071) in [golang/go](https://github.com/golang/go)
-3. ❗️ Opened issue [#18694](https://github.com/go-gitea/gitea/issues/18694) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-4. ❗️ Closed issue [#21](https://github.com/adyanth/cloudflare-operator/issues/21) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🎉 Merged PR [#22](https://github.com/adyanth/cloudflare-operator/pull/22) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#5](https://github.com/adyanth/cloudflare-operator/issues/5) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#8124](https://github.com/traefik/traefik/issues/8124) in [traefik/traefik](https://github.com/traefik/traefik)
+3. 🗣 Commented on [#51071](https://github.com/golang/go/issues/51071) in [golang/go](https://github.com/golang/go)
+4. ❗️ Opened issue [#18694](https://github.com/go-gitea/gitea/issues/18694) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+5. ❗️ Closed issue [#21](https://github.com/adyanth/cloudflare-operator/issues/21) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
