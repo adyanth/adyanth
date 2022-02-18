@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2425](https://github.com/kubernetes-sigs/external-dns/issues/2425) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-2. ❗️ Opened issue [#23](https://github.com/adyanth/cloudflare-operator/issues/23) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#3808](https://github.com/cert-manager/cert-manager/issues/3808) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
-4. 🗣 Commented on [#5](https://github.com/adyanth/cloudflare-operator/issues/5) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#8124](https://github.com/traefik/traefik/issues/8124) in [traefik/traefik](https://github.com/traefik/traefik)
+1. ❗️ Closed issue [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
+2. 🗣 Commented on [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
+3. 🗣 Commented on [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
+4. 🗣 Commented on [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
+5. ❗️ Opened issue [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
 <!--END_SECTION:activity-->
 
 </details>
