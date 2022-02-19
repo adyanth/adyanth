@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
-2. 🗣 Commented on [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
-3. 🗣 Commented on [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
-4. 🗣 Commented on [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
-5. ❗️ Opened issue [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
+1. 🗣 Commented on [#302](https://github.com/thomseddon/traefik-forward-auth/issues/302) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
+2. 💪 Opened PR [#302](https://github.com/thomseddon/traefik-forward-auth/pull/302) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
+3. 🗣 Commented on [#115](https://github.com/thomseddon/traefik-forward-auth/issues/115) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
+4. ❗️ Closed issue [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
+5. 🗣 Commented on [#1291](https://github.com/vmware/photon/issues/1291) in [vmware/photon](https://github.com/vmware/photon)
 <!--END_SECTION:activity-->
 
 </details>
