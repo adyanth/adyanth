@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/adyanth/cloudflare-operator/pull/25) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. ❗️ Closed issue [#24](https://github.com/adyanth/cloudflare-operator/issues/24) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 💪 Opened PR [#25](https://github.com/adyanth/cloudflare-operator/pull/25) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Opened issue [#24](https://github.com/adyanth/cloudflare-operator/issues/24) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#302](https://github.com/thomseddon/traefik-forward-auth/issues/302) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
+1. ❗️ Opened issue [#2627](https://github.com/kubernetes-sigs/external-dns/issues/2627) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+2. ❗️ Opened issue [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+3. 🎉 Merged PR [#25](https://github.com/adyanth/cloudflare-operator/pull/25) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. ❗️ Closed issue [#24](https://github.com/adyanth/cloudflare-operator/issues/24) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#25](https://github.com/adyanth/cloudflare-operator/pull/25) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
