@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2627](https://github.com/kubernetes-sigs/external-dns/issues/2627) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-2. ❗️ Opened issue [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-3. 🎉 Merged PR [#25](https://github.com/adyanth/cloudflare-operator/pull/25) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Closed issue [#24](https://github.com/adyanth/cloudflare-operator/issues/24) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 💪 Opened PR [#25](https://github.com/adyanth/cloudflare-operator/pull/25) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+2. ❗️ Opened issue [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. 🎉 Merged PR [#27](https://github.com/adyanth/cloudflare-operator/pull/27) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. ❗️ Closed issue [#26](https://github.com/adyanth/cloudflare-operator/issues/26) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#27](https://github.com/adyanth/cloudflare-operator/pull/27) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
