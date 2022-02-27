@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-2. ❗️ Opened issue [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-3. 🎉 Merged PR [#27](https://github.com/adyanth/cloudflare-operator/pull/27) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Closed issue [#26](https://github.com/adyanth/cloudflare-operator/issues/26) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 💪 Opened PR [#27](https://github.com/adyanth/cloudflare-operator/pull/27) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#18917](https://github.com/go-gitea/gitea/issues/18917) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+2. 🗣 Commented on [#18917](https://github.com/go-gitea/gitea/issues/18917) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. 🗣 Commented on [#18917](https://github.com/go-gitea/gitea/issues/18917) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+4. 🗣 Commented on [#18917](https://github.com/go-gitea/gitea/issues/18917) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+5. 🗣 Commented on [#18917](https://github.com/go-gitea/gitea/issues/18917) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 <!--END_SECTION:activity-->
 
 </details>
