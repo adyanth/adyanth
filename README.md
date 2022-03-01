@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108374](https://github.com/kubernetes/kubernetes/issues/108374) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. ❗️ Opened issue [#108374](https://github.com/kubernetes/kubernetes/issues/108374) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-3. ❗️ Opened issue [#182](https://github.com/rancher/system-upgrade-controller/issues/182) in [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller)
-4. ❗️ Opened issue [#585](https://github.com/cloudflare/cloudflared/issues/585) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-5. 🎉 Merged PR [#31](https://github.com/adyanth/cloudflare-operator/pull/31) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#3808](https://github.com/cert-manager/cert-manager/issues/3808) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+2. 🗣 Commented on [#3808](https://github.com/cert-manager/cert-manager/issues/3808) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+3. 🗣 Commented on [#3808](https://github.com/cert-manager/cert-manager/issues/3808) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+4. 🗣 Commented on [#585](https://github.com/cloudflare/cloudflared/issues/585) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
+5. 🗣 Commented on [#585](https://github.com/cloudflare/cloudflared/issues/585) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 <!--END_SECTION:activity-->
 
 </details>
