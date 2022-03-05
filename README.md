@@ -42,9 +42,9 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-2. 🗣 Commented on [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-3. 🗣 Commented on [#3808](https://github.com/cert-manager/cert-manager/issues/3808) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+1. 🗣 Commented on [#1344](https://github.com/tailscale/tailscale/issues/1344) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+2. ❗️ Closed issue [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. 🗣 Commented on [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 4. 🗣 Commented on [#3808](https://github.com/cert-manager/cert-manager/issues/3808) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
 5. 🗣 Commented on [#3808](https://github.com/cert-manager/cert-manager/issues/3808) in [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
 <!--END_SECTION:activity-->
