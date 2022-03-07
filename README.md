@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1259](https://github.com/louislam/uptime-kuma/issues/1259) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 🗣 Commented on [#5211](https://github.com/k3s-io/k3s/issues/5211) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
-3. 🗣 Commented on [#8354](https://github.com/argoproj/argo-cd/issues/8354) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#1344](https://github.com/tailscale/tailscale/issues/1344) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-5. ❗️ Closed issue [#18894](https://github.com/go-gitea/gitea/issues/18894) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+1. ❗️ Opened issue [#5212](https://github.com/k3s-io/k3s/issues/5212) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
+2. 🗣 Commented on [#1259](https://github.com/louislam/uptime-kuma/issues/1259) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 🗣 Commented on [#5211](https://github.com/k3s-io/k3s/issues/5211) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
+4. 🗣 Commented on [#8354](https://github.com/argoproj/argo-cd/issues/8354) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+5. 🗣 Commented on [#1344](https://github.com/tailscale/tailscale/issues/1344) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
 <!--END_SECTION:activity-->
 
 </details>
