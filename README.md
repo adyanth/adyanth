@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5219](https://github.com/k3s-io/k3s/issues/5219) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
-2. 🗣 Commented on [#5219](https://github.com/k3s-io/k3s/issues/5219) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
-3. 🗣 Commented on [#5219](https://github.com/k3s-io/k3s/issues/5219) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
-4. ❗️ Opened issue [#2](https://github.com/gilesknap/k3s-minecraft/issues/2) in [gilesknap/k3s-minecraft](https://github.com/gilesknap/k3s-minecraft)
-5. ❗️ Opened issue [#5219](https://github.com/k3s-io/k3s/issues/5219) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
+1. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+2. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+3. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+4. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+5. ❗️ Opened issue [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 <!--END_SECTION:activity-->
 
 </details>
