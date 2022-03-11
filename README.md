@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+1. 🗣 Commented on [#115](https://github.com/thomseddon/traefik-forward-auth/issues/115) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
 2. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 3. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 4. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-5. ❗️ Opened issue [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+5. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 <!--END_SECTION:activity-->
 
 </details>
