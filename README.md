@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-2. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-3. 🗣 Commented on [#115](https://github.com/thomseddon/traefik-forward-auth/issues/115) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
-4. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-5. 🗣 Commented on [#3487](https://github.com/jellyfin/jellyfin-web/issues/3487) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+1. ❗️ Closed issue [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗️ Opened issue [#38](https://github.com/adyanth/cloudflare-operator/issues/38) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. ❗️ Closed issue [#23](https://github.com/adyanth/cloudflare-operator/issues/23) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
