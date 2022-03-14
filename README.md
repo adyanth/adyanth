@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#420](https://github.com/cloudflare/cloudflared/issues/420) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 2. 🗣 Commented on [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Opened issue [#38](https://github.com/adyanth/cloudflare-operator/issues/38) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. ❗️ Closed issue [#23](https://github.com/adyanth/cloudflare-operator/issues/23) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗️ Closed issue [#5212](https://github.com/k3s-io/k3s/issues/5212) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
+4. 🗣 Commented on [#5212](https://github.com/k3s-io/k3s/issues/5212) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
+5. ❗️ Closed issue [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
