@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#420](https://github.com/cloudflare/cloudflared/issues/420) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
-2. 🗣 Commented on [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Closed issue [#5212](https://github.com/k3s-io/k3s/issues/5212) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
-4. 🗣 Commented on [#5212](https://github.com/k3s-io/k3s/issues/5212) in [k3s-io/k3s](https://github.com/k3s-io/k3s)
-5. ❗️ Closed issue [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. ❗️ Opened issue [#39](https://github.com/adyanth/cloudflare-operator/issues/39) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+3. 🗣 Commented on [#108374](https://github.com/kubernetes/kubernetes/issues/108374) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#37](https://github.com/adyanth/cloudflare-operator/issues/37) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#420](https://github.com/cloudflare/cloudflared/issues/420) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 <!--END_SECTION:activity-->
 
 </details>
