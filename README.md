@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-2. 🎉 Merged PR [#41](https://github.com/adyanth/cloudflare-operator/pull/41) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Closed issue [#40](https://github.com/adyanth/cloudflare-operator/issues/40) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#41](https://github.com/adyanth/cloudflare-operator/pull/41) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. ❗️ Opened issue [#40](https://github.com/adyanth/cloudflare-operator/issues/40) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. ❗️ Closed issue [#182](https://github.com/rancher/system-upgrade-controller/issues/182) in [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller)
+2. 🗣 Commented on [#182](https://github.com/rancher/system-upgrade-controller/issues/182) in [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller)
+3. 🗣 Commented on [#2924](https://github.com/CrunchyData/postgres-operator/issues/2924) in [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator)
+4. ❗️ Opened issue [#42](https://github.com/adyanth/cloudflare-operator/issues/42) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
 <!--END_SECTION:activity-->
 
 </details>
