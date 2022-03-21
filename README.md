@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#304](https://github.com/thomseddon/traefik-forward-auth/issues/304) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
-2. 🗣 Commented on [#304](https://github.com/thomseddon/traefik-forward-auth/issues/304) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
-3. ❗️ Closed issue [#182](https://github.com/rancher/system-upgrade-controller/issues/182) in [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller)
-4. 🗣 Commented on [#182](https://github.com/rancher/system-upgrade-controller/issues/182) in [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller)
-5. 🗣 Commented on [#2924](https://github.com/CrunchyData/postgres-operator/issues/2924) in [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator)
+1. 🗣 Commented on [#266](https://github.com/thomseddon/traefik-forward-auth/issues/266) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
+2. 🗣 Commented on [#64](https://github.com/mesosphere/traefik-forward-auth/issues/64) in [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth)
+3. 🗣 Commented on [#38](https://github.com/adyanth/cloudflare-operator/issues/38) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#304](https://github.com/thomseddon/traefik-forward-auth/issues/304) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
+5. 🗣 Commented on [#304](https://github.com/thomseddon/traefik-forward-auth/issues/304) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
 <!--END_SECTION:activity-->
 
 </details>
