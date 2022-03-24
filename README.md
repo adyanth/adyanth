@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2627](https://github.com/kubernetes-sigs/external-dns/issues/2627) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-2. 🗣 Commented on [#266](https://github.com/thomseddon/traefik-forward-auth/issues/266) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
-3. 🗣 Commented on [#64](https://github.com/mesosphere/traefik-forward-auth/issues/64) in [mesosphere/traefik-forward-auth](https://github.com/mesosphere/traefik-forward-auth)
-4. 🗣 Commented on [#38](https://github.com/adyanth/cloudflare-operator/issues/38) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#304](https://github.com/thomseddon/traefik-forward-auth/issues/304) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
+1. ❗️ Opened issue [#407](https://github.com/bastienwirtz/homer/issues/407) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+2. ❗️ Closed issue [#3093](https://github.com/CrunchyData/postgres-operator/issues/3093) in [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator)
+3. 🗣 Commented on [#3093](https://github.com/CrunchyData/postgres-operator/issues/3093) in [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator)
+4. 🗣 Commented on [#2627](https://github.com/kubernetes-sigs/external-dns/issues/2627) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+5. 🗣 Commented on [#266](https://github.com/thomseddon/traefik-forward-auth/issues/266) in [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth)
 <!--END_SECTION:activity-->
 
 </details>
