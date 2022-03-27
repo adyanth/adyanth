@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/authelia/authelia/issues/189) in [authelia/authelia](https://github.com/authelia/authelia)
-2. 🗣 Commented on [#189](https://github.com/authelia/authelia/issues/189) in [authelia/authelia](https://github.com/authelia/authelia)
-3. ❗️ Opened issue [#407](https://github.com/bastienwirtz/homer/issues/407) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-4. ❗️ Closed issue [#3093](https://github.com/CrunchyData/postgres-operator/issues/3093) in [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator)
-5. 🗣 Commented on [#3093](https://github.com/CrunchyData/postgres-operator/issues/3093) in [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator)
+1. 🎉 Merged PR [#46](https://github.com/adyanth/cloudflare-operator/pull/46) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 💪 Opened PR [#46](https://github.com/adyanth/cloudflare-operator/pull/46) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗️ Closed issue [#8](https://github.com/adyanth/cloudflare-operator/issues/8) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🎉 Merged PR [#45](https://github.com/adyanth/cloudflare-operator/pull/45) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#45](https://github.com/adyanth/cloudflare-operator/pull/45) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
