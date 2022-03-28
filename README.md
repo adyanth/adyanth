@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/adyanth/cloudflare-operator/pull/46) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 💪 Opened PR [#46](https://github.com/adyanth/cloudflare-operator/pull/46) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Closed issue [#8](https://github.com/adyanth/cloudflare-operator/issues/8) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🎉 Merged PR [#45](https://github.com/adyanth/cloudflare-operator/pull/45) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 💪 Opened PR [#45](https://github.com/adyanth/cloudflare-operator/pull/45) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#2627](https://github.com/kubernetes-sigs/external-dns/issues/2627) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+2. ❗️ Opened issue [#51](https://github.com/adyanth/cloudflare-operator/issues/51) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗️ Opened issue [#50](https://github.com/adyanth/cloudflare-operator/issues/50) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. ❗️ Closed issue [#38](https://github.com/adyanth/cloudflare-operator/issues/38) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#49](https://github.com/adyanth/cloudflare-operator/pull/49) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
