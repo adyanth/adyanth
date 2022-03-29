@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2627](https://github.com/kubernetes-sigs/external-dns/issues/2627) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-2. ❗️ Opened issue [#51](https://github.com/adyanth/cloudflare-operator/issues/51) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Opened issue [#50](https://github.com/adyanth/cloudflare-operator/issues/50) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Closed issue [#38](https://github.com/adyanth/cloudflare-operator/issues/38) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🎉 Merged PR [#49](https://github.com/adyanth/cloudflare-operator/pull/49) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#29](https://github.com/MaxLeiter/Drift/issues/29) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
+2. 🗣 Commented on [#11](https://github.com/MaxLeiter/Drift/issues/11) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
+3. 🗣 Commented on [#48](https://github.com/MaxLeiter/Drift/issues/48) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
+4. 🗣 Commented on [#48](https://github.com/MaxLeiter/Drift/issues/48) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
+5. ❗️ Opened issue [#48](https://github.com/MaxLeiter/Drift/issues/48) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
 <!--END_SECTION:activity-->
 
 </details>
