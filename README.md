@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/adyanth/cloudflare-operator/issues/53) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. ❗️ Opened issue [#53](https://github.com/adyanth/cloudflare-operator/issues/53) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#33](https://github.com/alextran1502/immich/issues/33) in [alextran1502/immich](https://github.com/alextran1502/immich)
-4. 🗣 Commented on [#29](https://github.com/MaxLeiter/Drift/issues/29) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
-5. 🗣 Commented on [#11](https://github.com/MaxLeiter/Drift/issues/11) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
+1. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+2. 🗣 Commented on [#407](https://github.com/bastienwirtz/homer/issues/407) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+3. 💪 Opened PR [#414](https://github.com/bastienwirtz/homer/pull/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+4. 🗣 Commented on [#407](https://github.com/bastienwirtz/homer/issues/407) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+5. 🗣 Commented on [#53](https://github.com/adyanth/cloudflare-operator/issues/53) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
