@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/132) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-2. 💪 Opened PR [#133](https://github.com/MiguelNdeCarvalho/speedtest-exporter/pull/133) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-3. ❗️ Opened issue [#132](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/132) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-4. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-5. 🗣 Commented on [#1](https://github.com/benbjohnson/postlite/issues/1) in [benbjohnson/postlite](https://github.com/benbjohnson/postlite)
+1. 🗣 Commented on [#134](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/134) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+2. ❗️ Opened issue [#134](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/134) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+3. 🗣 Commented on [#132](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/132) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+4. 💪 Opened PR [#133](https://github.com/MiguelNdeCarvalho/speedtest-exporter/pull/133) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+5. ❗️ Opened issue [#132](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/132) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
 <!--END_SECTION:activity-->
 
 </details>
