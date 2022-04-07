@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-2. 🗣 Commented on [#134](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/134) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-3. ❗️ Opened issue [#134](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/134) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-4. 🗣 Commented on [#132](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/132) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-5. 💪 Opened PR [#133](https://github.com/MiguelNdeCarvalho/speedtest-exporter/pull/133) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+1. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+2. 🗣 Commented on [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+3. 🗣 Commented on [#134](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/134) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+4. ❗️ Opened issue [#134](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/134) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+5. 🗣 Commented on [#132](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/132) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
 <!--END_SECTION:activity-->
 
 </details>
