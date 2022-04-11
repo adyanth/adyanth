@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36601](https://github.com/kubernetes/kubernetes/issues/36601) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-2. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-3. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-4. 🗣 Commented on [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-5. 🗣 Commented on [#134](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/134) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+1. ❗️ Closed issue [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🗣 Commented on [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. ❗️ Closed issue [#17](https://github.com/adyanth/openwrt-tailscale-enabler/issues/17) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🗣 Commented on [#17](https://github.com/adyanth/openwrt-tailscale-enabler/issues/17) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#36601](https://github.com/kubernetes/kubernetes/issues/36601) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 </details>
