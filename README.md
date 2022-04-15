@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🗣 Commented on [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. ❗️ Closed issue [#17](https://github.com/adyanth/openwrt-tailscale-enabler/issues/17) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#17](https://github.com/adyanth/openwrt-tailscale-enabler/issues/17) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#36601](https://github.com/kubernetes/kubernetes/issues/36601) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+1. 💪 Opened PR [#55](https://github.com/adyanth/cloudflare-operator/pull/55) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 💪 Opened PR [#54](https://github.com/adyanth/cloudflare-operator/pull/54) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#53](https://github.com/adyanth/cloudflare-operator/issues/53) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. ❗️ Closed issue [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
