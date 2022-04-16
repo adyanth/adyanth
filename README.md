@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/adyanth/cloudflare-operator/pull/55) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 💪 Opened PR [#54](https://github.com/adyanth/cloudflare-operator/pull/54) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#53](https://github.com/adyanth/cloudflare-operator/issues/53) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Closed issue [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#15](https://github.com/adyanth/openwrt-tailscale-enabler/issues/15) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. ❗️ Opened issue [#144](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/144) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+2. 🗣 Commented on [#55](https://github.com/adyanth/cloudflare-operator/issues/55) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#56](https://github.com/adyanth/cloudflare-operator/pull/56) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 💪 Opened PR [#56](https://github.com/adyanth/cloudflare-operator/pull/56) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#54](https://github.com/adyanth/cloudflare-operator/pull/54) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
