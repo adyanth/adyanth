@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-2. 🗣 Commented on [#78](https://github.com/MaxLeiter/Drift/issues/78) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
-3. 🗣 Commented on [#2526](https://github.com/kubernetes-sigs/external-dns/issues/2526) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-4. ❗️ Opened issue [#144](https://github.com/MiguelNdeCarvalho/speedtest-exporter/issues/144) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-5. 🗣 Commented on [#55](https://github.com/adyanth/cloudflare-operator/issues/55) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+2. 🗣 Commented on [#441](https://github.com/bastienwirtz/homer/issues/441) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+3. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+4. 🗣 Commented on [#78](https://github.com/MaxLeiter/Drift/issues/78) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
+5. 🗣 Commented on [#2526](https://github.com/kubernetes-sigs/external-dns/issues/2526) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
 <!--END_SECTION:activity-->
 
 </details>
