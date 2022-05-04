@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-2. 🗣 Commented on [#441](https://github.com/bastienwirtz/homer/issues/441) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-3. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-4. 🗣 Commented on [#78](https://github.com/MaxLeiter/Drift/issues/78) in [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift)
-5. 🗣 Commented on [#2526](https://github.com/kubernetes-sigs/external-dns/issues/2526) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+1. ❗️ Opened issue [#57](https://github.com/adyanth/cloudflare-operator/issues/57) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+3. 🗣 Commented on [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
+4. 🗣 Commented on [#441](https://github.com/bastienwirtz/homer/issues/441) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+5. 🗣 Commented on [#414](https://github.com/bastienwirtz/homer/issues/414) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
 <!--END_SECTION:activity-->
 
 </details>
