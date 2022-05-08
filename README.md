@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1521](https://github.com/filebrowser/filebrowser/issues/1521) in [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-2. ❗️ Opened issue [#57](https://github.com/adyanth/cloudflare-operator/issues/57) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-4. 🗣 Commented on [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
-5. 🗣 Commented on [#441](https://github.com/bastienwirtz/homer/issues/441) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+1. ❗️ Opened issue [#11](https://github.com/r7wx/easy-gate/issues/11) in [r7wx/easy-gate](https://github.com/r7wx/easy-gate)
+2. 🗣 Commented on [#1521](https://github.com/filebrowser/filebrowser/issues/1521) in [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
+3. ❗️ Opened issue [#57](https://github.com/adyanth/cloudflare-operator/issues/57) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#4655](https://github.com/prometheus-operator/prometheus-operator/issues/4655) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+5. 🗣 Commented on [#374](https://github.com/alexellis/k3sup/issues/374) in [alexellis/k3sup](https://github.com/alexellis/k3sup)
 <!--END_SECTION:activity-->
 
 </details>
