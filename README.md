@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/adyanth/openwrt-tailscale-enabler/issues/4) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🗣 Commented on [#11](https://github.com/r7wx/easy-gate/issues/11) in [r7wx/easy-gate](https://github.com/r7wx/easy-gate)
-3. ❗️ Opened issue [#11](https://github.com/r7wx/easy-gate/issues/11) in [r7wx/easy-gate](https://github.com/r7wx/easy-gate)
-4. 🗣 Commented on [#1521](https://github.com/filebrowser/filebrowser/issues/1521) in [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
-5. ❗️ Opened issue [#57](https://github.com/adyanth/cloudflare-operator/issues/57) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#11](https://github.com/r7wx/easy-gate/issues/11) in [r7wx/easy-gate](https://github.com/r7wx/easy-gate)
+4. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
