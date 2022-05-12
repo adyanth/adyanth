@@ -42,9 +42,9 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#11](https://github.com/r7wx/easy-gate/issues/11) in [r7wx/easy-gate](https://github.com/r7wx/easy-gate)
+1. ❗️ Opened issue [#58](https://github.com/adyanth/cloudflare-operator/issues/58) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#51](https://github.com/adyanth/cloudflare-operator/issues/51) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 4. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 5. 🗣 Commented on [#1](https://github.com/adyanth/cloudflare-operator/issues/1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
