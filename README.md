@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#295](https://github.com/sct/overseerr/issues/295) in [sct/overseerr](https://github.com/sct/overseerr)
-2. 🗣 Commented on [#295](https://github.com/sct/overseerr/issues/295) in [sct/overseerr](https://github.com/sct/overseerr)
-3. ❌ Closed PR [#12](https://github.com/adyanth/shortpaste/pull/12) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. ❌ Closed PR [#11](https://github.com/adyanth/shortpaste/pull/11) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. ❌ Closed PR [#15](https://github.com/adyanth/shortpaste/pull/15) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🎉 Merged PR [#55](https://github.com/adyanth/cloudflare-operator/pull/55) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❗️ Closed issue [#53](https://github.com/adyanth/cloudflare-operator/issues/53) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#295](https://github.com/sct/overseerr/issues/295) in [sct/overseerr](https://github.com/sct/overseerr)
+4. 🗣 Commented on [#295](https://github.com/sct/overseerr/issues/295) in [sct/overseerr](https://github.com/sct/overseerr)
+5. ❌ Closed PR [#12](https://github.com/adyanth/shortpaste/pull/12) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
