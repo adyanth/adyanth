@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/adyanth/shortpaste/pull/17) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. ❌ Closed PR [#16](https://github.com/adyanth/shortpaste/pull/16) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. 💪 Opened PR [#17](https://github.com/adyanth/shortpaste/pull/17) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. 💪 Opened PR [#16](https://github.com/adyanth/shortpaste/pull/16) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 🎉 Merged PR [#55](https://github.com/adyanth/cloudflare-operator/pull/55) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#9](https://github.com/netbirdio/dashboard/issues/9) in [netbirdio/dashboard](https://github.com/netbirdio/dashboard)
+2. ❌ Closed PR [#17](https://github.com/adyanth/shortpaste/pull/17) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. ❌ Closed PR [#16](https://github.com/adyanth/shortpaste/pull/16) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 💪 Opened PR [#17](https://github.com/adyanth/shortpaste/pull/17) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 💪 Opened PR [#16](https://github.com/adyanth/shortpaste/pull/16) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
