@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/netbirdio/dashboard/issues/9) in [netbirdio/dashboard](https://github.com/netbirdio/dashboard)
-2. ❌ Closed PR [#17](https://github.com/adyanth/shortpaste/pull/17) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. ❌ Closed PR [#16](https://github.com/adyanth/shortpaste/pull/16) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. 💪 Opened PR [#17](https://github.com/adyanth/shortpaste/pull/17) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 💪 Opened PR [#16](https://github.com/adyanth/shortpaste/pull/16) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🎉 Merged PR [#59](https://github.com/adyanth/cloudflare-operator/pull/59) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#59](https://github.com/adyanth/cloudflare-operator/issues/59) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗️ Closed issue [#2](https://github.com/adyanth/blog-comments/issues/2) in [adyanth/blog-comments](https://github.com/adyanth/blog-comments)
+4. ❗️ Closed issue [#7](https://github.com/adyanth/blog-comments/issues/7) in [adyanth/blog-comments](https://github.com/adyanth/blog-comments)
+5. 🗣 Commented on [#15](https://github.com/cloudflare/argo-tunnel-examples/issues/15) in [cloudflare/argo-tunnel-examples](https://github.com/cloudflare/argo-tunnel-examples)
 <!--END_SECTION:activity-->
 
 </details>
