@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/adyanth/cloudflare-operator/pull/59) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#59](https://github.com/adyanth/cloudflare-operator/issues/59) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗️ Closed issue [#2](https://github.com/adyanth/blog-comments/issues/2) in [adyanth/blog-comments](https://github.com/adyanth/blog-comments)
-4. ❗️ Closed issue [#7](https://github.com/adyanth/blog-comments/issues/7) in [adyanth/blog-comments](https://github.com/adyanth/blog-comments)
-5. 🗣 Commented on [#15](https://github.com/cloudflare/argo-tunnel-examples/issues/15) in [cloudflare/argo-tunnel-examples](https://github.com/cloudflare/argo-tunnel-examples)
+1. 🗣 Commented on [#60](https://github.com/adyanth/cloudflare-operator/issues/60) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🎉 Merged PR [#59](https://github.com/adyanth/cloudflare-operator/pull/59) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#59](https://github.com/adyanth/cloudflare-operator/issues/59) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. ❗️ Closed issue [#2](https://github.com/adyanth/blog-comments/issues/2) in [adyanth/blog-comments](https://github.com/adyanth/blog-comments)
+5. ❗️ Closed issue [#7](https://github.com/adyanth/blog-comments/issues/7) in [adyanth/blog-comments](https://github.com/adyanth/blog-comments)
 <!--END_SECTION:activity-->
 
 </details>
