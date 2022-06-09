@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/adyanth/shortpaste/pull/18) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. ❗️ Closed issue [#9](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/9) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-3. 🗣 Commented on [#9](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/9) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-4. 🗣 Commented on [#61](https://github.com/adyanth/cloudflare-operator/issues/61) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#60](https://github.com/adyanth/cloudflare-operator/issues/60) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+2. 🗣 Commented on [#479](https://github.com/matiasdelellis/facerecognition/issues/479) in [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition)
+3. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+4. ❌ Closed PR [#18](https://github.com/adyanth/shortpaste/pull/18) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. ❗️ Closed issue [#9](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/9) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 <!--END_SECTION:activity-->
 
 </details>
