@@ -43,10 +43,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-2. 🗣 Commented on [#479](https://github.com/matiasdelellis/facerecognition/issues/479) in [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition)
-3. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-4. ❌ Closed PR [#18](https://github.com/adyanth/shortpaste/pull/18) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. ❗️ Closed issue [#9](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/9) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+2. 🗣 Commented on [#8810](https://github.com/argoproj/argo-cd/issues/8810) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+3. 🗣 Commented on [#281](https://github.com/photoprism/photoprism/issues/281) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+4. 🗣 Commented on [#281](https://github.com/photoprism/photoprism/issues/281) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+5. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
 <!--END_SECTION:activity-->
 
 </details>
