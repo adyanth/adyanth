@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-2. 🗣 Commented on [#8810](https://github.com/argoproj/argo-cd/issues/8810) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-3. 🗣 Commented on [#281](https://github.com/photoprism/photoprism/issues/281) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+1. ❌ Closed PR [#19](https://github.com/adyanth/shortpaste/pull/19) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+3. 🗣 Commented on [#8810](https://github.com/argoproj/argo-cd/issues/8810) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 4. 🗣 Commented on [#281](https://github.com/photoprism/photoprism/issues/281) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-5. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+5. 🗣 Commented on [#281](https://github.com/photoprism/photoprism/issues/281) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
 <!--END_SECTION:activity-->
 
 </details>
