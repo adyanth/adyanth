@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com/adyanth/shortpaste/pull/19) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 🗣 Commented on [#654](https://github.com/photoprism/photoprism/issues/654) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-3. 🗣 Commented on [#8810](https://github.com/argoproj/argo-cd/issues/8810) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#281](https://github.com/photoprism/photoprism/issues/281) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
-5. 🗣 Commented on [#281](https://github.com/photoprism/photoprism/issues/281) in [photoprism/photoprism](https://github.com/photoprism/photoprism)
+1. 🗣 Commented on [#10](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/10) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+2. 🗣 Commented on [#10](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/10) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. ❗️ Closed issue [#108374](https://github.com/kubernetes/kubernetes/issues/108374) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+4. 🗣 Commented on [#821](https://github.com/traefik/mesh/issues/821) in [traefik/mesh](https://github.com/traefik/mesh)
+5. ❌ Closed PR [#19](https://github.com/adyanth/shortpaste/pull/19) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
