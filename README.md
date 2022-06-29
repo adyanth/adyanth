@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/adyanth/shortpaste/pull/21) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 🗣 Commented on [#2627](https://github.com/kubernetes-sigs/external-dns/issues/2627) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
-3. 🗣 Commented on [#4](https://github.com/adyanth/openwrt-tailscale-enabler/issues/4) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#11](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/11) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-5. 🗣 Commented on [#9](https://github.com/netbirdio/dashboard/issues/9) in [netbirdio/dashboard](https://github.com/netbirdio/dashboard)
+1. 🗣 Commented on [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+2. 🗣 Commented on [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+3. ❗️ Opened issue [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+4. ❗️ Opened issue [#577](https://github.com/0xERR0R/blocky/issues/577) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+5. 🗣 Commented on [#566](https://github.com/0xERR0R/blocky/issues/566) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
 <!--END_SECTION:activity-->
 
 </details>
