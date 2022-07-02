@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
-2. 🗣 Commented on [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
-3. 🗣 Commented on [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
-4. 🗣 Commented on [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
-5. 🗣 Commented on [#578](https://github.com/0xERR0R/blocky/issues/578) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+1. 🗣 Commented on [#588](https://github.com/0xERR0R/blocky/issues/588) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+2. ❗️ Closed issue [#588](https://github.com/0xERR0R/blocky/issues/588) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+3. 🗣 Commented on [#588](https://github.com/0xERR0R/blocky/issues/588) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+4. ❗️ Closed issue [#2497](https://github.com/kubernetes-sigs/external-dns/issues/2497) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+5. ❗️ Opened issue [#588](https://github.com/0xERR0R/blocky/issues/588) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
 <!--END_SECTION:activity-->
 
 </details>
