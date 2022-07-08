@@ -44,9 +44,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#593](https://github.com/0xERR0R/blocky/issues/593) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
 2. 🗣 Commented on [#593](https://github.com/0xERR0R/blocky/issues/593) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
-3. 💪 Opened PR [#593](https://github.com/0xERR0R/blocky/pull/593) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
-4. 🗣 Commented on [#588](https://github.com/0xERR0R/blocky/issues/588) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
-5. ❗️ Closed issue [#588](https://github.com/0xERR0R/blocky/issues/588) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+3. 🗣 Commented on [#593](https://github.com/0xERR0R/blocky/issues/593) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+4. 🗣 Commented on [#593](https://github.com/0xERR0R/blocky/issues/593) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
+5. 💪 Opened PR [#593](https://github.com/0xERR0R/blocky/pull/593) in [0xERR0R/blocky](https://github.com/0xERR0R/blocky)
 <!--END_SECTION:activity-->
 
 </details>
