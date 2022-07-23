@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+1. 🗣 Commented on [#5584](https://github.com/operator-framework/operator-sdk/issues/5584) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
 2. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-3. 🗣 Commented on [#47](https://github.com/adyanth/cloudflare-operator/issues/47) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#63](https://github.com/adyanth/cloudflare-operator/pull/63) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#2526](https://github.com/kubernetes-sigs/external-dns/issues/2526) in [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns)
+3. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+4. 🗣 Commented on [#47](https://github.com/adyanth/cloudflare-operator/issues/47) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#63](https://github.com/adyanth/cloudflare-operator/pull/63) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
