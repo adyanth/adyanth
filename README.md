@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5584](https://github.com/operator-framework/operator-sdk/issues/5584) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-2. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-3. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-4. 🗣 Commented on [#47](https://github.com/adyanth/cloudflare-operator/issues/47) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 💪 Opened PR [#63](https://github.com/adyanth/cloudflare-operator/pull/63) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 💪 Opened PR [#25](https://github.com/adyanth/shortpaste/pull/25) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. 💪 Opened PR [#24](https://github.com/adyanth/shortpaste/pull/24) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. 🗣 Commented on [#5584](https://github.com/operator-framework/operator-sdk/issues/5584) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+4. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+5. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
 <!--END_SECTION:activity-->
 
 </details>
