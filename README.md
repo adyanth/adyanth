@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/adyanth/shortpaste/pull/25) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 💪 Opened PR [#24](https://github.com/adyanth/shortpaste/pull/24) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. 🗣 Commented on [#5584](https://github.com/operator-framework/operator-sdk/issues/5584) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-4. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-5. 🗣 Commented on [#5524](https://github.com/operator-framework/operator-sdk/issues/5524) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+1. ❗️ Closed issue [#18](https://github.com/adyanth/openwrt-tailscale-enabler/issues/18) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🗣 Commented on [#18](https://github.com/adyanth/openwrt-tailscale-enabler/issues/18) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 💪 Opened PR [#25](https://github.com/adyanth/shortpaste/pull/25) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 💪 Opened PR [#24](https://github.com/adyanth/shortpaste/pull/24) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 🗣 Commented on [#5584](https://github.com/operator-framework/operator-sdk/issues/5584) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
 <!--END_SECTION:activity-->
 
 </details>
