@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#13](https://github.com/adyanth/traefik-container-manager/issues/13) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-2. 🗣 Commented on [#13](https://github.com/adyanth/traefik-container-manager/issues/13) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-3. 🗣 Commented on [#13](https://github.com/adyanth/traefik-container-manager/issues/13) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
-4. ❗️ Closed issue [#18](https://github.com/adyanth/openwrt-tailscale-enabler/issues/18) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#18](https://github.com/adyanth/openwrt-tailscale-enabler/issues/18) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🎉 Merged PR [#25](https://github.com/adyanth/shortpaste/pull/25) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. 🎉 Merged PR [#23](https://github.com/adyanth/shortpaste/pull/23) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. 🎉 Merged PR [#24](https://github.com/adyanth/shortpaste/pull/24) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. ❗️ Reopened issue [#13](https://github.com/adyanth/traefik-container-manager/issues/13) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
+5. 🗣 Commented on [#13](https://github.com/adyanth/traefik-container-manager/issues/13) in [adyanth/traefik-container-manager](https://github.com/adyanth/traefik-container-manager)
 <!--END_SECTION:activity-->
 
 </details>
