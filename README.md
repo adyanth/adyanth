@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/adyanth/openwrt-tailscale-enabler/issues/19) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🗣 Commented on [#64](https://github.com/adyanth/cloudflare-operator/issues/64) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🎉 Merged PR [#25](https://github.com/adyanth/shortpaste/pull/25) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. 🎉 Merged PR [#23](https://github.com/adyanth/shortpaste/pull/23) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 🎉 Merged PR [#24](https://github.com/adyanth/shortpaste/pull/24) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🗣 Commented on [#65](https://github.com/adyanth/cloudflare-operator/issues/65) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#19](https://github.com/adyanth/openwrt-tailscale-enabler/issues/19) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#64](https://github.com/adyanth/cloudflare-operator/issues/64) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🎉 Merged PR [#25](https://github.com/adyanth/shortpaste/pull/25) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 🎉 Merged PR [#23](https://github.com/adyanth/shortpaste/pull/23) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
