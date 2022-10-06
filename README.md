@@ -5,7 +5,7 @@
 [![Git Repo](https://img.shields.io/badge/Git%20Repo-git.adyanth.site-green?style=for-the-badge)](https://git.adyanth.site/adyanth)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adyanth_H?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdyanth_H&screen_name=Adyanth_H)
 
-## I'm a Developer, Network and Cybersecurity Engineer
+## I'm a Software Developer, Network and Cybersecurity Engineer
 
 - 🔭 I've set up [my site][website] and my [homelab](https://adyanth.site/series/homelab/) to run on Cloudflare!
 - 🌱 I’m currently learning anything I get my hands on
