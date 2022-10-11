@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/adyanth/openwrt-tailscale-enabler/issues/4) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. ❗️ Closed issue [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. ❗️ Closed issue [#19](https://github.com/adyanth/openwrt-tailscale-enabler/issues/19) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#31](https://github.com/adyanth/shortpaste/issues/31) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. ❗️ Closed issue [#29](https://github.com/adyanth/shortpaste/issues/29) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🗣 Commented on [#20](https://github.com/adyanth/openwrt-tailscale-enabler/issues/20) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. ❗️ Closed issue [#4](https://github.com/adyanth/openwrt-tailscale-enabler/issues/4) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. ❗️ Closed issue [#14](https://github.com/adyanth/openwrt-tailscale-enabler/issues/14) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. ❗️ Closed issue [#19](https://github.com/adyanth/openwrt-tailscale-enabler/issues/19) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#31](https://github.com/adyanth/shortpaste/issues/31) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
