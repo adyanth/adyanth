@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CSE 291 - Virtualization](https://adyanth.dev/posts/ucsd/cse291-virtualization/)
 - [Consumer NVIDIA Graphics Cards for Kubernetes Workloads](https://adyanth.dev/posts/migration-compose-k8s/nvidia-graphics-kubernetes/)
 - [Cloudflare Tunnel Operator: Architecture](https://adyanth.dev/posts/migration-compose-k8s/cloudflare-tunnel-operator-architecture/)
 - [Building a Kubernetes Operator: Why and How](https://adyanth.dev/posts/migration-compose-k8s/building-k8s-operator/)
 - [Migration from Compose to Kubernetes](https://adyanth.dev/posts/migration-compose-k8s/preface/)
-- [Docker Desktop Replacement: macOS Editon](https://adyanth.dev/posts/docker-desktop-replacement-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://adyanth.dev/archives/)
