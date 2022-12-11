@@ -5,13 +5,13 @@
 [![Git Repo](https://img.shields.io/badge/Git%20Repo-git.adyanth.site-green?style=for-the-badge)](https://git.adyanth.site/adyanth)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Adyanth_H?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdyanth_H&screen_name=Adyanth_H)
 
-## I'm a Software Developer, Network and Cybersecurity Engineer
+## I'm a Software Developer, MS CS Student @ UCSD
 
-- 🔭 I've set up [my site][website] and my [homelab](https://adyanth.site/series/homelab/) to run on Cloudflare!
-- 🌱 I’m currently learning anything I get my hands on
-- 🏢 I'm working on network security and automation
-- 👯 I’m looking to expand my knowledge on [Golang](https://adyanth.site/tags/golang/) and [K8s](https://adyanth.site/tags/kubernetes/)
-- 🥅 2022 Goals: Contribute more to open source projects, document as much as possible
+- 🌱 I've written a [Kubernetes Operator](https://github.com/adyanth/cloudflare-operator) that eases configuring and using Cloudflare Tunnels in Kubernetes!
+- 🔭 I've set up [my site][website] and my [homelab](https://adyanth.site/series/homelab/) to run on Cloudflare.
+- 🏢 I'm studying Computer Science (M.S.) at University of California, San Diego
+- 👯 I'm looking to expand my knowledge on [Golang](https://adyanth.site/tags/golang/) and [K8s](https://adyanth.site/tags/kubernetes/)
+- 🥅 2022 Goals: Contribute more to open source projects ✅
 - ⚡ Fun fact: I love technology and self-hosting
 
 <!-- ### Languages and Tools -->
