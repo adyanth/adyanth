@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3845](https://github.com/docker/cli/issues/3845) in [docker/cli](https://github.com/docker/cli)
-2. 🗣 Commented on [#3845](https://github.com/docker/cli/issues/3845) in [docker/cli](https://github.com/docker/cli)
-3. 🗣 Commented on [#3845](https://github.com/docker/cli/issues/3845) in [docker/cli](https://github.com/docker/cli)
-4. ❗️ Closed issue [#24](https://github.com/adyanth/openwrt-tailscale-enabler/issues/24) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🎉 Merged PR [#25](https://github.com/adyanth/openwrt-tailscale-enabler/pull/25) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. ❗️ Opened issue [#6713](https://github.com/firefly-iii/firefly-iii/issues/6713) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+2. 🗣 Commented on [#67](https://github.com/adyanth/cloudflare-operator/issues/67) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#68](https://github.com/adyanth/cloudflare-operator/pull/68) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 💪 Opened PR [#68](https://github.com/adyanth/cloudflare-operator/pull/68) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. ❗️ Closed issue [#51](https://github.com/adyanth/cloudflare-operator/issues/51) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
