@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/adyanth/cloudflare-operator/issues/57) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#70](https://github.com/adyanth/cloudflare-operator/issues/70) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#70](https://github.com/adyanth/cloudflare-operator/issues/70) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#212](https://github.com/Fallenbagel/jellyseerr/issues/212) in [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr)
-5. 💪 Opened PR [#69](https://github.com/adyanth/cloudflare-operator/pull/69) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🎉 Merged PR [#72](https://github.com/adyanth/cloudflare-operator/pull/72) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 💪 Opened PR [#72](https://github.com/adyanth/cloudflare-operator/pull/72) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#71](https://github.com/adyanth/cloudflare-operator/pull/71) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 💪 Opened PR [#71](https://github.com/adyanth/cloudflare-operator/pull/71) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#57](https://github.com/adyanth/cloudflare-operator/issues/57) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
