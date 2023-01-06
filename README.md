@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/adyanth/cloudflare-operator/issues/67) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#559](https://github.com/jesec/flood/issues/559) in [jesec/flood](https://github.com/jesec/flood)
-3. 🗣 Commented on [#70](https://github.com/adyanth/cloudflare-operator/issues/70) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Closed issue [#57](https://github.com/adyanth/cloudflare-operator/issues/57) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🎉 Merged PR [#72](https://github.com/adyanth/cloudflare-operator/pull/72) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. ❗️ Opened issue [#2](https://github.com/adyanth/splitwise-firefly-sync/issues/2) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+2. ❗️ Opened issue [#1](https://github.com/adyanth/splitwise-firefly-sync/issues/1) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+3. 🗣 Commented on [#67](https://github.com/adyanth/cloudflare-operator/issues/67) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#559](https://github.com/jesec/flood/issues/559) in [jesec/flood](https://github.com/jesec/flood)
+5. 🗣 Commented on [#70](https://github.com/adyanth/cloudflare-operator/issues/70) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
