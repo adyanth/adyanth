@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/adyanth/splitwise-firefly-sync/issues/2) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-2. ❗️ Opened issue [#1](https://github.com/adyanth/splitwise-firefly-sync/issues/1) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 🗣 Commented on [#67](https://github.com/adyanth/cloudflare-operator/issues/67) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#559](https://github.com/jesec/flood/issues/559) in [jesec/flood](https://github.com/jesec/flood)
-5. 🗣 Commented on [#70](https://github.com/adyanth/cloudflare-operator/issues/70) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 💪 Opened PR [#3](https://github.com/adyanth/splitwise-firefly-sync/pull/3) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+2. ❗️ Opened issue [#6810](https://github.com/firefly-iii/firefly-iii/issues/6810) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+3. 🗣 Commented on [#6807](https://github.com/firefly-iii/firefly-iii/issues/6807) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+4. 🗣 Commented on [#6807](https://github.com/firefly-iii/firefly-iii/issues/6807) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+5. 🗣 Commented on [#6807](https://github.com/firefly-iii/firefly-iii/issues/6807) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 <!--END_SECTION:activity-->
 
 </details>
