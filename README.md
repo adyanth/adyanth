@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6704](https://github.com/tailscale/tailscale/issues/6704) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-2. 🗣 Commented on [#6704](https://github.com/tailscale/tailscale/issues/6704) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-3. 💪 Opened PR [#3](https://github.com/adyanth/splitwise-firefly-sync/pull/3) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. ❗️ Opened issue [#6810](https://github.com/firefly-iii/firefly-iii/issues/6810) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-5. 🗣 Commented on [#6807](https://github.com/firefly-iii/firefly-iii/issues/6807) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+1. ❗️ Reopened issue [#42](https://github.com/adyanth/cloudflare-operator/issues/42) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❗️ Closed issue [#42](https://github.com/adyanth/cloudflare-operator/issues/42) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#42](https://github.com/adyanth/cloudflare-operator/issues/42) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#36](https://github.com/adyanth/cloudflare-operator/issues/36) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. ❗️ Closed issue [#65](https://github.com/adyanth/cloudflare-operator/issues/65) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
