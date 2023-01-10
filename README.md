@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#42](https://github.com/adyanth/cloudflare-operator/issues/42) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. ❗️ Closed issue [#42](https://github.com/adyanth/cloudflare-operator/issues/42) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#42](https://github.com/adyanth/cloudflare-operator/issues/42) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#36](https://github.com/adyanth/cloudflare-operator/issues/36) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. ❗️ Closed issue [#65](https://github.com/adyanth/cloudflare-operator/issues/65) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. ❗️ Closed issue [#30](https://github.com/adyanth/shortpaste/issues/30) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. ❌ Closed PR [#32](https://github.com/adyanth/shortpaste/pull/32) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. ❌ Closed PR [#26](https://github.com/adyanth/shortpaste/pull/26) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 🎉 Merged PR [#28](https://github.com/adyanth/shortpaste/pull/28) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 🎉 Merged PR [#27](https://github.com/adyanth/shortpaste/pull/27) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
