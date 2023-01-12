@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-2. ❗️ Closed issue [#30](https://github.com/adyanth/shortpaste/issues/30) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. ❌ Closed PR [#32](https://github.com/adyanth/shortpaste/pull/32) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. ❌ Closed PR [#26](https://github.com/adyanth/shortpaste/pull/26) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 🎉 Merged PR [#28](https://github.com/adyanth/shortpaste/pull/28) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+2. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+3. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+4. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+5. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 <!--END_SECTION:activity-->
 
 </details>
