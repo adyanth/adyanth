@@ -42,7 +42,7 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+1. 💪 Opened PR [#73](https://github.com/adyanth/cloudflare-operator/pull/73) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 2. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 3. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 4. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
