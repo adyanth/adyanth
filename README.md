@@ -37,7 +37,7 @@
 
 ## :zap: Most used languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adyanth&hide=javascript&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats-adyanth.vercel.app/api/top-langs/?username=adyanth&hide=javascript&count_private=true&theme=dark)
 
 ## :zap: Recent GitHub Activity
   
@@ -53,7 +53,7 @@
 
 ## :zap: GitHub Stats
 
-![Adyanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adyanth&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Adyanth's GitHub Stats](https://github-readme-stats-adyanth.vercel.app/api?username=adyanth&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 [website]: https://adyanth.dev/
 [twitter]: https://twitter.com/Adyanth_H
