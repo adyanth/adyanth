@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/adyanth/shortpaste/pull/33) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 🎉 Merged PR [#35](https://github.com/adyanth/shortpaste/pull/35) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. 💪 Opened PR [#73](https://github.com/adyanth/cloudflare-operator/pull/73) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-5. 🗣 Commented on [#6829](https://github.com/firefly-iii/firefly-iii/issues/6829) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+1. 🗣 Commented on [#1448](https://github.com/oznu/homebridge-config-ui-x/issues/1448) in [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
+2. 🎉 Merged PR [#4](https://github.com/adyanth/homebridge-plugin-command/pull/4) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+3. 💪 Opened PR [#4](https://github.com/adyanth/homebridge-plugin-command/pull/4) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+4. 🗣 Commented on [#3](https://github.com/adyanth/homebridge-plugin-command/issues/3) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+5. ❗️ Opened issue [#3](https://github.com/adyanth/homebridge-plugin-command/issues/3) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
 <!--END_SECTION:activity-->
 
 </details>
