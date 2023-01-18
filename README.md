@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1448](https://github.com/oznu/homebridge-config-ui-x/issues/1448) in [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
-2. 🎉 Merged PR [#4](https://github.com/adyanth/homebridge-plugin-command/pull/4) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-3. 💪 Opened PR [#4](https://github.com/adyanth/homebridge-plugin-command/pull/4) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-4. 🗣 Commented on [#3](https://github.com/adyanth/homebridge-plugin-command/issues/3) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-5. ❗️ Opened issue [#3](https://github.com/adyanth/homebridge-plugin-command/issues/3) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+1. ❗️ Closed issue [#2](https://github.com/adyanth/splitwise-firefly-sync/issues/2) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+2. 🎉 Merged PR [#3](https://github.com/adyanth/splitwise-firefly-sync/pull/3) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+3. 🗣 Commented on [#4](https://github.com/adyanth/splitwise-firefly-sync/issues/4) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. 🗣 Commented on [#1448](https://github.com/oznu/homebridge-config-ui-x/issues/1448) in [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
+5. 🎉 Merged PR [#4](https://github.com/adyanth/homebridge-plugin-command/pull/4) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
 <!--END_SECTION:activity-->
 
 </details>
