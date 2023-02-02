@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/13) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-2. 🗣 Commented on [#13](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/13) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-3. ❗️ Closed issue [#2](https://github.com/adyanth/splitwise-firefly-sync/issues/2) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 🎉 Merged PR [#3](https://github.com/adyanth/splitwise-firefly-sync/pull/3) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-5. 🗣 Commented on [#4](https://github.com/adyanth/splitwise-firefly-sync/issues/4) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+1. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❗️ Closed issue [#13](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/13) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. 🗣 Commented on [#13](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/13) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+4. ❗️ Closed issue [#2](https://github.com/adyanth/splitwise-firefly-sync/issues/2) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. 🎉 Merged PR [#3](https://github.com/adyanth/splitwise-firefly-sync/pull/3) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
 </details>
