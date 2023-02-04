@@ -45,8 +45,8 @@
 1. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 2. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 3. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#75](https://github.com/adyanth/cloudflare-operator/pull/75) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#75](https://github.com/adyanth/cloudflare-operator/pull/75) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
