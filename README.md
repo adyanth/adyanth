@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 💪 Opened PR [#75](https://github.com/adyanth/cloudflare-operator/pull/75) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🎉 Merged PR [#36](https://github.com/adyanth/shortpaste/pull/36) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. ❌ Closed PR [#34](https://github.com/adyanth/shortpaste/pull/34) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. 🎉 Merged PR [#37](https://github.com/adyanth/shortpaste/pull/37) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 💪 Opened PR [#37](https://github.com/adyanth/shortpaste/pull/37) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+5. 🗣 Commented on [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
