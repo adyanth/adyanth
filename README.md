@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1448](https://github.com/oznu/homebridge-config-ui-x/issues/1448) in [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
-2. 🎉 Merged PR [#36](https://github.com/adyanth/shortpaste/pull/36) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. ❌ Closed PR [#34](https://github.com/adyanth/shortpaste/pull/34) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. 🎉 Merged PR [#37](https://github.com/adyanth/shortpaste/pull/37) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 💪 Opened PR [#37](https://github.com/adyanth/shortpaste/pull/37) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🗣 Commented on [#14](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/14) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+2. ❗️ Closed issue [#5](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/5) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+3. ❗️ Closed issue [#10](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/10) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+4. 🗣 Commented on [#1448](https://github.com/oznu/homebridge-config-ui-x/issues/1448) in [oznu/homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x)
+5. 🎉 Merged PR [#36](https://github.com/adyanth/shortpaste/pull/36) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
