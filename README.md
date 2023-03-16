@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/adyanth/shortpaste/pull/39) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 🗣 Commented on [#39](https://github.com/adyanth/shortpaste/issues/39) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. 🗣 Commented on [#3336](https://github.com/logto-io/logto/issues/3336) in [logto-io/logto](https://github.com/logto-io/logto)
-4. ❗️ Opened issue [#3336](https://github.com/logto-io/logto/issues/3336) in [logto-io/logto](https://github.com/logto-io/logto)
-5. 🗣 Commented on [#14](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/14) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+1. 🗣 Commented on [#76](https://github.com/adyanth/cloudflare-operator/issues/76) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🎉 Merged PR [#39](https://github.com/adyanth/shortpaste/pull/39) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+3. 🗣 Commented on [#39](https://github.com/adyanth/shortpaste/issues/39) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 🗣 Commented on [#3336](https://github.com/logto-io/logto/issues/3336) in [logto-io/logto](https://github.com/logto-io/logto)
+5. ❗️ Opened issue [#3336](https://github.com/logto-io/logto/issues/3336) in [logto-io/logto](https://github.com/logto-io/logto)
 <!--END_SECTION:activity-->
 
 </details>
