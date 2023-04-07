@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/adyanth/cloudflare-operator/issues/80) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#81](https://github.com/adyanth/cloudflare-operator/issues/81) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 2. 🗣 Commented on [#80](https://github.com/adyanth/cloudflare-operator/issues/80) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 3. 🗣 Commented on [#80](https://github.com/adyanth/cloudflare-operator/issues/80) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗️ Closed issue [#40](https://github.com/adyanth/shortpaste/issues/40) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 🗣 Commented on [#40](https://github.com/adyanth/shortpaste/issues/40) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 🗣 Commented on [#80](https://github.com/adyanth/cloudflare-operator/issues/80) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. ❗️ Closed issue [#40](https://github.com/adyanth/shortpaste/issues/40) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
