@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#856](https://github.com/Tzahi12345/YoutubeDL-Material/issues/856) in [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)
-2. 🗣 Commented on [#26](https://github.com/adyanth/openwrt-tailscale-enabler/issues/26) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🗣 Commented on [#81](https://github.com/adyanth/cloudflare-operator/issues/81) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. ❗️ Opened issue [#82](https://github.com/adyanth/cloudflare-operator/issues/82) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❗️ Opened issue [#856](https://github.com/Tzahi12345/YoutubeDL-Material/issues/856) in [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)
+3. 🗣 Commented on [#26](https://github.com/adyanth/openwrt-tailscale-enabler/issues/26) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 4. 🗣 Commented on [#81](https://github.com/adyanth/cloudflare-operator/issues/81) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#80](https://github.com/adyanth/cloudflare-operator/issues/80) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#81](https://github.com/adyanth/cloudflare-operator/issues/81) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
