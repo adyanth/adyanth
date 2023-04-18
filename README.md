@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/adyanth/cloudflare-operator/pull/84) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. ❗️ Closed issue [#82](https://github.com/adyanth/cloudflare-operator/issues/82) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🎉 Merged PR [#83](https://github.com/adyanth/cloudflare-operator/pull/83) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#83](https://github.com/adyanth/cloudflare-operator/pull/83) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. ❗️ Closed issue [#74](https://github.com/adyanth/cloudflare-operator/issues/74) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#108374](https://github.com/kubernetes/kubernetes/issues/108374) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+2. 💪 Opened PR [#84](https://github.com/adyanth/cloudflare-operator/pull/84) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗️ Closed issue [#82](https://github.com/adyanth/cloudflare-operator/issues/82) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🎉 Merged PR [#83](https://github.com/adyanth/cloudflare-operator/pull/83) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#83](https://github.com/adyanth/cloudflare-operator/pull/83) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
