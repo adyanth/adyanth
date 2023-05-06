@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/adyanth/cloudflare-operator/issues/78) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#27](https://github.com/adyanth/openwrt-tailscale-enabler/issues/27) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 💪 Opened PR [#41](https://github.com/adyanth/shortpaste/pull/41) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. 🗣 Commented on [#78](https://github.com/adyanth/cloudflare-operator/issues/78) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 3. 🗣 Commented on [#27](https://github.com/adyanth/openwrt-tailscale-enabler/issues/27) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#108374](https://github.com/kubernetes/kubernetes/issues/108374) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-5. 💪 Opened PR [#84](https://github.com/adyanth/cloudflare-operator/pull/84) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#27](https://github.com/adyanth/openwrt-tailscale-enabler/issues/27) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#108374](https://github.com/kubernetes/kubernetes/issues/108374) in [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 <!--END_SECTION:activity-->
 
 </details>
