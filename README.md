@@ -42,10 +42,10 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
-2. 🗣 Commented on [#85](https://github.com/adyanth/cloudflare-operator/issues/85) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#28](https://github.com/adyanth/openwrt-tailscale-enabler/issues/28) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. ❗️ Closed issue [#28](https://github.com/adyanth/openwrt-tailscale-enabler/issues/28) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. ❗️ Closed issue [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
+2. 🗣 Commented on [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
+3. ❗️ Opened issue [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
+4. 🗣 Commented on [#85](https://github.com/adyanth/cloudflare-operator/issues/85) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 5. 🗣 Commented on [#28](https://github.com/adyanth/openwrt-tailscale-enabler/issues/28) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
