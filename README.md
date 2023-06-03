@@ -45,8 +45,8 @@
 1. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 2. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 3. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🔒 Closed issue [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
-5. 🗣 Commented on [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
+4. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🔒 Closed issue [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
 <!--END_SECTION:activity-->
 
 </details>
