@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🔒 Closed issue [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
+1. 🔒 Closed issue [#5](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/5) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+2. 🎉 Merged PR [#6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/6) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+3. 💪 Opened PR [#6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/6) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+4. 🗣 Commented on [#78](https://github.com/CensoredUsername/dynasm-rs/issues/78) in [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs)
+5. 🗣 Commented on [#86](https://github.com/adyanth/cloudflare-operator/issues/86) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
