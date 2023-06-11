@@ -43,10 +43,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
-2. 🗣 Commented on [#1667](https://github.com/qdm12/gluetun/issues/1667) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+2. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
 3. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
-4. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
-5. 🔒 Closed issue [#1667](https://github.com/qdm12/gluetun/issues/1667) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+4. ❗ Opened issue [#1675](https://github.com/qdm12/gluetun/issues/1675) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+5. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
 <!--END_SECTION:activity-->
 
 </details>
