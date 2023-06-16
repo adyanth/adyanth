@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/8) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-2. 💪 Opened PR [#8](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/8) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-3. 🎉 Merged PR [#7](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/7) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-4. 💪 Opened PR [#7](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/7) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-5. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+1. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+2. 🎉 Merged PR [#8](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/8) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+3. 💪 Opened PR [#8](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/8) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+4. 🎉 Merged PR [#7](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/7) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+5. 💪 Opened PR [#7](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/7) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
 <!--END_SECTION:activity-->
 
 </details>
