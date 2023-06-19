@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#26](https://github.com/adyanth/openwrt-tailscale-enabler/issues/26) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🔒 Closed issue [#21](https://github.com/adyanth/openwrt-tailscale-enabler/issues/21) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🗣 Commented on [#29](https://github.com/adyanth/openwrt-tailscale-enabler/issues/29) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#16](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/16) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-5. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+1. 💪 Opened PR [#9](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/9) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+2. 🔒 Closed issue [#26](https://github.com/adyanth/openwrt-tailscale-enabler/issues/26) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🔒 Closed issue [#21](https://github.com/adyanth/openwrt-tailscale-enabler/issues/21) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🗣 Commented on [#29](https://github.com/adyanth/openwrt-tailscale-enabler/issues/29) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#16](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/16) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
 <!--END_SECTION:activity-->
 
 </details>
