@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/adyanth/openwrt-tailscale-enabler/issues/30) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 💪 Opened PR [#9](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/pull/9) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-3. 🔒 Closed issue [#26](https://github.com/adyanth/openwrt-tailscale-enabler/issues/26) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🔒 Closed issue [#21](https://github.com/adyanth/openwrt-tailscale-enabler/issues/21) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#29](https://github.com/adyanth/openwrt-tailscale-enabler/issues/29) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🚀 Published release [v0.10.1: QOL](https://github.com/v0.10.1: QOL) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🔒 Closed issue [#87](https://github.com/adyanth/cloudflare-operator/issues/87) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#88](https://github.com/adyanth/cloudflare-operator/pull/88) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#87](https://github.com/adyanth/cloudflare-operator/issues/87) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#30](https://github.com/adyanth/openwrt-tailscale-enabler/issues/30) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
