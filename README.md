@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#32](https://github.com/adyanth/openwrt-tailscale-enabler/issues/32) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🗣 Commented on [#32](https://github.com/adyanth/openwrt-tailscale-enabler/issues/32) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🗣 Commented on [#31](https://github.com/adyanth/openwrt-tailscale-enabler/issues/31) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🗣 Commented on [#89](https://github.com/adyanth/cloudflare-operator/issues/89) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🔒 Closed issue [#32](https://github.com/adyanth/openwrt-tailscale-enabler/issues/32) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#32](https://github.com/adyanth/openwrt-tailscale-enabler/issues/32) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 4. 🗣 Commented on [#31](https://github.com/adyanth/openwrt-tailscale-enabler/issues/31) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🚀 Published release [v0.10.1: QOL](https://github.com/v0.10.1: QOL) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#31](https://github.com/adyanth/openwrt-tailscale-enabler/issues/31) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
