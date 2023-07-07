@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/adyanth/openwrt-tailscale-enabler/issues/35) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🗣 Commented on [#34](https://github.com/adyanth/openwrt-tailscale-enabler/issues/34) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🔒 Closed issue [#30](https://github.com/adyanth/openwrt-tailscale-enabler/issues/30) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🔒 Closed issue [#31](https://github.com/adyanth/openwrt-tailscale-enabler/issues/31) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#31](https://github.com/adyanth/openwrt-tailscale-enabler/issues/31) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🔒 Closed issue [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+2. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
+3. 🔒 Closed issue [#33](https://github.com/adyanth/openwrt-tailscale-enabler/issues/33) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🗣 Commented on [#17](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/17) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+5. 🗣 Commented on [#35](https://github.com/adyanth/openwrt-tailscale-enabler/issues/35) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
