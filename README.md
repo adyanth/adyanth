@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/IgnisDa/ryot/issues/190#issuecomment-1636851432) in [IgnisDa/ryot](https://github.com/IgnisDa/ryot)
-2. ❗ Opened issue [#190](https://github.com/IgnisDa/ryot/issues/190) in [IgnisDa/ryot](https://github.com/IgnisDa/ryot)
-3. 🔒 Closed issue [#1669](https://github.com/qdm12/gluetun/issues/1669) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
-4. 🗣 Commented on [#1669](https://github.com/qdm12/gluetun/issues/1669#issuecomment-1622812464) in [qdm12/gluetun](https://github.com/qdm12/gluetun)
-5. 🔒 Closed issue [#33](https://github.com/adyanth/openwrt-tailscale-enabler/issues/33) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🗣 Commented on [#195](https://github.com/wannesm/dtaidistance/issues/195#issuecomment-1638729114) in [wannesm/dtaidistance](https://github.com/wannesm/dtaidistance)
+2. ❗ Opened issue [#195](https://github.com/wannesm/dtaidistance/issues/195) in [wannesm/dtaidistance](https://github.com/wannesm/dtaidistance)
+3. 🗣 Commented on [#18](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/18#issuecomment-1638120199) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
+4. 🗣 Commented on [#190](https://github.com/IgnisDa/ryot/issues/190#issuecomment-1636851432) in [IgnisDa/ryot](https://github.com/IgnisDa/ryot)
+5. ❗ Opened issue [#190](https://github.com/IgnisDa/ryot/issues/190) in [IgnisDa/ryot](https://github.com/IgnisDa/ryot)
 <!--END_SECTION:activity-->
 
 </details>
