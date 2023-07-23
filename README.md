@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/adyanth/cloudflare-operator/issues/90#issuecomment-1642958524) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#91](https://github.com/adyanth/cloudflare-operator/issues/91#issuecomment-1642956313) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#58](https://github.com/adyanth/cloudflare-operator/issues/58#issuecomment-1642953394) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#195](https://github.com/wannesm/dtaidistance/issues/195#issuecomment-1638729114) in [wannesm/dtaidistance](https://github.com/wannesm/dtaidistance)
-5. ❗ Opened issue [#195](https://github.com/wannesm/dtaidistance/issues/195) in [wannesm/dtaidistance](https://github.com/wannesm/dtaidistance)
+1. ❗ Opened issue [#585](https://github.com/p0deje/Maccy/issues/585) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+2. 🗣 Commented on [#36](https://github.com/adyanth/openwrt-tailscale-enabler/issues/36#issuecomment-1646603660) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🔒 Closed issue [#34](https://github.com/adyanth/openwrt-tailscale-enabler/issues/34) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🗣 Commented on [#34](https://github.com/adyanth/openwrt-tailscale-enabler/issues/34#issuecomment-1646603605) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#90](https://github.com/adyanth/cloudflare-operator/issues/90#issuecomment-1642958524) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
