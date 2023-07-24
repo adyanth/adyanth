@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#585](https://github.com/p0deje/Maccy/issues/585) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
-2. 🗣 Commented on [#36](https://github.com/adyanth/openwrt-tailscale-enabler/issues/36#issuecomment-1646603660) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🔒 Closed issue [#34](https://github.com/adyanth/openwrt-tailscale-enabler/issues/34) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#34](https://github.com/adyanth/openwrt-tailscale-enabler/issues/34#issuecomment-1646603605) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#90](https://github.com/adyanth/cloudflare-operator/issues/90#issuecomment-1642958524) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#585](https://github.com/p0deje/Maccy/issues/585#issuecomment-1646739540) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+2. 🗣 Commented on [#585](https://github.com/p0deje/Maccy/issues/585#issuecomment-1646739369) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+3. ❗ Opened issue [#585](https://github.com/p0deje/Maccy/issues/585) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+4. 🗣 Commented on [#36](https://github.com/adyanth/openwrt-tailscale-enabler/issues/36#issuecomment-1646603660) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🔒 Closed issue [#34](https://github.com/adyanth/openwrt-tailscale-enabler/issues/34) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
