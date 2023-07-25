@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#585](https://github.com/p0deje/Maccy/issues/585#issuecomment-1646739540) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
-2. 🗣 Commented on [#585](https://github.com/p0deje/Maccy/issues/585#issuecomment-1646739369) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
-3. ❗ Opened issue [#585](https://github.com/p0deje/Maccy/issues/585) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
-4. 🗣 Commented on [#36](https://github.com/adyanth/openwrt-tailscale-enabler/issues/36#issuecomment-1646603660) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🔒 Closed issue [#34](https://github.com/adyanth/openwrt-tailscale-enabler/issues/34) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. ❗ Opened issue [#537](https://github.com/faust-streaming/faust/issues/537) in [faust-streaming/faust](https://github.com/faust-streaming/faust)
+2. 🗣 Commented on [#585](https://github.com/p0deje/Maccy/issues/585#issuecomment-1646739540) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+3. 🗣 Commented on [#585](https://github.com/p0deje/Maccy/issues/585#issuecomment-1646739369) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+4. ❗ Opened issue [#585](https://github.com/p0deje/Maccy/issues/585) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+5. 🗣 Commented on [#36](https://github.com/adyanth/openwrt-tailscale-enabler/issues/36#issuecomment-1646603660) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
