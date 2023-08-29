@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/adyanth/splitwise-firefly-sync/issues/6) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-2. ❗ Opened issue [#5](https://github.com/adyanth/splitwise-firefly-sync/issues/5) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 💪 Opened PR [#42](https://github.com/adyanth/shortpaste/pull/42) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-4. 🗣 Commented on [#190](https://github.com/IgnisDa/ryot/issues/190#issuecomment-1651757061) in [IgnisDa/ryot](https://github.com/IgnisDa/ryot)
-5. ❗ Opened issue [#537](https://github.com/faust-streaming/faust/issues/537) in [faust-streaming/faust](https://github.com/faust-streaming/faust)
+1. 🚀 Published release [Add Path based routing config](https://github.com/adyanth/cloudflare-operator/releases/tag/v10.0.2) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🎉 Merged PR [#89](https://github.com/adyanth/cloudflare-operator/pull/89) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗ Opened issue [#6](https://github.com/adyanth/splitwise-firefly-sync/issues/6) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. ❗ Opened issue [#5](https://github.com/adyanth/splitwise-firefly-sync/issues/5) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. 💪 Opened PR [#42](https://github.com/adyanth/shortpaste/pull/42) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 <!--END_SECTION:activity-->
 
 </details>
