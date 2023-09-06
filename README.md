@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Add Path based routing config](https://github.com/adyanth/cloudflare-operator/releases/tag/v10.0.2) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🎉 Merged PR [#89](https://github.com/adyanth/cloudflare-operator/pull/89) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. ❗ Opened issue [#6](https://github.com/adyanth/splitwise-firefly-sync/issues/6) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. ❗ Opened issue [#5](https://github.com/adyanth/splitwise-firefly-sync/issues/5) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-5. 💪 Opened PR [#42](https://github.com/adyanth/shortpaste/pull/42) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🔒 Closed issue [#7](https://github.com/adyanth/cloudflare-operator/issues/7) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🚀 Published release [Add Path based routing config](https://github.com/adyanth/cloudflare-operator/releases/tag/v10.0.2) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#89](https://github.com/adyanth/cloudflare-operator/pull/89) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. ❗ Opened issue [#6](https://github.com/adyanth/splitwise-firefly-sync/issues/6) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. ❗ Opened issue [#5](https://github.com/adyanth/splitwise-firefly-sync/issues/5) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
 </details>
