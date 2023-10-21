@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/KastnerRG/pp4fpgas/pull/33) in [KastnerRG/pp4fpgas](https://github.com/KastnerRG/pp4fpgas)
-2. 🗣 Commented on [#5290](https://github.com/longhorn/longhorn/issues/5290#issuecomment-1717543075) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
-3. 🔒 Closed issue [#7](https://github.com/adyanth/cloudflare-operator/issues/7) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🚀 Published release [Add Path based routing config](https://github.com/adyanth/cloudflare-operator/releases/tag/v10.0.2) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🎉 Merged PR [#89](https://github.com/adyanth/cloudflare-operator/pull/89) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. ❗ Opened issue [#8623](https://github.com/actions/runner-images/issues/8623) in [actions/runner-images](https://github.com/actions/runner-images)
+2. 💪 Opened PR [#33](https://github.com/KastnerRG/pp4fpgas/pull/33) in [KastnerRG/pp4fpgas](https://github.com/KastnerRG/pp4fpgas)
+3. 🗣 Commented on [#5290](https://github.com/longhorn/longhorn/issues/5290#issuecomment-1717543075) in [longhorn/longhorn](https://github.com/longhorn/longhorn)
+4. 🔒 Closed issue [#7](https://github.com/adyanth/cloudflare-operator/issues/7) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🚀 Published release [Add Path based routing config](https://github.com/adyanth/cloudflare-operator/releases/tag/v10.0.2) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
