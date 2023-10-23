@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/KastnerRG/Read_the_docs/pull/32) in [KastnerRG/Read_the_docs](https://github.com/KastnerRG/Read_the_docs)
-2. ❗ Opened issue [#31](https://github.com/KastnerRG/Read_the_docs/issues/31) in [KastnerRG/Read_the_docs](https://github.com/KastnerRG/Read_the_docs)
-3. 🔒 Closed issue [#8623](https://github.com/actions/runner-images/issues/8623) in [actions/runner-images](https://github.com/actions/runner-images)
-4. 🗣 Commented on [#8623](https://github.com/actions/runner-images/issues/8623#issuecomment-1773824050) in [actions/runner-images](https://github.com/actions/runner-images)
-5. ❗ Opened issue [#8623](https://github.com/actions/runner-images/issues/8623) in [actions/runner-images](https://github.com/actions/runner-images)
+1. 🗣 Commented on [#32](https://github.com/KastnerRG/Read_the_docs/pull/32#issuecomment-1774162148) in [KastnerRG/Read_the_docs](https://github.com/KastnerRG/Read_the_docs)
+2. 🔒 Closed issue [#93](https://github.com/adyanth/cloudflare-operator/issues/93) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#93](https://github.com/adyanth/cloudflare-operator/issues/93#issuecomment-1774143176) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 💪 Opened PR [#32](https://github.com/KastnerRG/Read_the_docs/pull/32) in [KastnerRG/Read_the_docs](https://github.com/KastnerRG/Read_the_docs)
+5. ❗ Opened issue [#31](https://github.com/KastnerRG/Read_the_docs/issues/31) in [KastnerRG/Read_the_docs](https://github.com/KastnerRG/Read_the_docs)
 <!--END_SECTION:activity-->
 
 </details>
