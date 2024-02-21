@@ -42,8 +42,8 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/adyanth/shortpaste/pull/47) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. 💪 Opened PR [#43](https://github.com/adyanth/shortpaste/pull/43) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🗣 Commented on [#2006](https://github.com/sherlock-project/sherlock/issues/2006#issuecomment-1953477704) in [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+2. 💪 Opened PR [#47](https://github.com/adyanth/shortpaste/pull/47) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 3. 🗣 Commented on [#42](https://github.com/adyanth/openwrt-tailscale-enabler/issues/42#issuecomment-1809502135) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 4. 🗣 Commented on [#41](https://github.com/adyanth/openwrt-tailscale-enabler/issues/41#issuecomment-1807163055) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 5. 🗣 Commented on [#94](https://github.com/adyanth/cloudflare-operator/issues/94#issuecomment-1793771117) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
