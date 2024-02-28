@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#849](https://github.com/lldap/lldap/issues/849#issuecomment-1963063098) in [lldap/lldap](https://github.com/lldap/lldap)
-2. 🗣 Commented on [#849](https://github.com/lldap/lldap/issues/849#issuecomment-1962829329) in [lldap/lldap](https://github.com/lldap/lldap)
-3. 🗣 Commented on [#849](https://github.com/lldap/lldap/issues/849#issuecomment-1962824799) in [lldap/lldap](https://github.com/lldap/lldap)
-4. 🗣 Commented on [#849](https://github.com/lldap/lldap/issues/849#issuecomment-1962759729) in [lldap/lldap](https://github.com/lldap/lldap)
-5. ❗ Opened issue [#849](https://github.com/lldap/lldap/issues/849) in [lldap/lldap](https://github.com/lldap/lldap)
+1. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1966623332) in [opnsense/plugins](https://github.com/opnsense/plugins)
+2. 🗣 Commented on [#1541](https://github.com/vmware/photon/issues/1541#issuecomment-1966616841) in [vmware/photon](https://github.com/vmware/photon)
+3. ❗ Opened issue [#1541](https://github.com/vmware/photon/issues/1541) in [vmware/photon](https://github.com/vmware/photon)
+4. ❗ Opened issue [#3842](https://github.com/opnsense/plugins/issues/3842) in [opnsense/plugins](https://github.com/opnsense/plugins)
+5. 🗣 Commented on [#849](https://github.com/lldap/lldap/issues/849#issuecomment-1963063098) in [lldap/lldap](https://github.com/lldap/lldap)
 <!--END_SECTION:activity-->
 
 </details>
