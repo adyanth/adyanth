@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1970210245) in [opnsense/plugins](https://github.com/opnsense/plugins)
-2. 🔒 Closed issue [#3842](https://github.com/opnsense/plugins/issues/3842) in [opnsense/plugins](https://github.com/opnsense/plugins)
-3. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1969208319) in [opnsense/plugins](https://github.com/opnsense/plugins)
-4. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1969192028) in [opnsense/plugins](https://github.com/opnsense/plugins)
-5. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1968019731) in [opnsense/plugins](https://github.com/opnsense/plugins)
+1. 🔒 Closed issue [#1541](https://github.com/vmware/photon/issues/1541) in [vmware/photon](https://github.com/vmware/photon)
+2. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1970210245) in [opnsense/plugins](https://github.com/opnsense/plugins)
+3. 🔒 Closed issue [#3842](https://github.com/opnsense/plugins/issues/3842) in [opnsense/plugins](https://github.com/opnsense/plugins)
+4. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1969208319) in [opnsense/plugins](https://github.com/opnsense/plugins)
+5. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1969192028) in [opnsense/plugins](https://github.com/opnsense/plugins)
 <!--END_SECTION:activity-->
 
 </details>
