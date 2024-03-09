@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#261](https://github.com/victorbalssa/abacus/issues/261) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-2. 🔒 Closed issue [#1541](https://github.com/vmware/photon/issues/1541) in [vmware/photon](https://github.com/vmware/photon)
-3. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1970210245) in [opnsense/plugins](https://github.com/opnsense/plugins)
-4. 🔒 Closed issue [#3842](https://github.com/opnsense/plugins/issues/3842) in [opnsense/plugins](https://github.com/opnsense/plugins)
-5. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1969208319) in [opnsense/plugins](https://github.com/opnsense/plugins)
+1. 🔒 Closed issue [#94](https://github.com/adyanth/cloudflare-operator/issues/94) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❗ Opened issue [#156](https://github.com/jellyfin/jellyfin-plugin-ldapauth/issues/156) in [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth)
+3. ❗ Opened issue [#261](https://github.com/victorbalssa/abacus/issues/261) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
+4. 🔒 Closed issue [#1541](https://github.com/vmware/photon/issues/1541) in [vmware/photon](https://github.com/vmware/photon)
+5. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1970210245) in [opnsense/plugins](https://github.com/opnsense/plugins)
 <!--END_SECTION:activity-->
 
 </details>
