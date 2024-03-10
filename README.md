@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#94](https://github.com/adyanth/cloudflare-operator/issues/94) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. ❗ Opened issue [#156](https://github.com/jellyfin/jellyfin-plugin-ldapauth/issues/156) in [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth)
-3. ❗ Opened issue [#261](https://github.com/victorbalssa/abacus/issues/261) in [victorbalssa/abacus](https://github.com/victorbalssa/abacus)
-4. 🔒 Closed issue [#1541](https://github.com/vmware/photon/issues/1541) in [vmware/photon](https://github.com/vmware/photon)
-5. 🗣 Commented on [#3842](https://github.com/opnsense/plugins/issues/3842#issuecomment-1970210245) in [opnsense/plugins](https://github.com/opnsense/plugins)
+1. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1987004881) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+2. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986999451) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+3. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986976253) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+4. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986970646) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+5. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986950639) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
 <!--END_SECTION:activity-->
 
 </details>
