@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1987004881) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-2. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986999451) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-3. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986976253) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-4. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986970646) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
-5. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986950639) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+1. 🗣 Commented on [#104](https://github.com/kieraneglin/pinchflat/issues/104#issuecomment-2016064161) in [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
+2. 🗣 Commented on [#104](https://github.com/kieraneglin/pinchflat/issues/104#issuecomment-2016059364) in [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
+3. ❗ Opened issue [#104](https://github.com/kieraneglin/pinchflat/issues/104) in [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
+4. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1987004881) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
+5. 🗣 Commented on [#10](https://github.com/ahosavalike-ucsd-courses/cse231-proj6/issues/10#issuecomment-1986999451) in [ahosavalike-ucsd-courses/cse231-proj6](https://github.com/ahosavalike-ucsd-courses/cse231-proj6)
 <!--END_SECTION:activity-->
 
 </details>
