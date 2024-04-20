@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/adyanth/cloudflare-operator/issues/97#issuecomment-2053106718) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🔒 Closed issue [#97](https://github.com/adyanth/cloudflare-operator/issues/97) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🔒 Closed issue [#45](https://github.com/adyanth/openwrt-tailscale-enabler/issues/45) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🗣 Commented on [#45](https://github.com/adyanth/openwrt-tailscale-enabler/issues/45#issuecomment-2021915182) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🗣 Commented on [#104](https://github.com/kieraneglin/pinchflat/issues/104#issuecomment-2016064161) in [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat)
+1. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067064079) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+2. 🔓 Reopened issue [#166](https://github.com/gurusabarish/hugo-profile/issues/166) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+3. ❌ Closed PR [#167](https://github.com/gurusabarish/hugo-profile/pull/167) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+4. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067061165) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+5. 🔒 Closed issue [#166](https://github.com/gurusabarish/hugo-profile/issues/166) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
 <!--END_SECTION:activity-->
 
 </details>
