@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067064079) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
-2. 🔓 Reopened issue [#166](https://github.com/gurusabarish/hugo-profile/issues/166) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
-3. ❌ Closed PR [#167](https://github.com/gurusabarish/hugo-profile/pull/167) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
-4. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067061165) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
-5. 🔒 Closed issue [#166](https://github.com/gurusabarish/hugo-profile/issues/166) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+1. ❗ Opened issue [#94](https://github.com/BaldissaraMatheus/Tasks.md/issues/94) in [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md)
+2. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067064079) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+3. 🔓 Reopened issue [#166](https://github.com/gurusabarish/hugo-profile/issues/166) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+4. ❌ Closed PR [#167](https://github.com/gurusabarish/hugo-profile/pull/167) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+5. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067061165) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
 <!--END_SECTION:activity-->
 
 </details>
