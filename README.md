@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#94](https://github.com/BaldissaraMatheus/Tasks.md/issues/94) in [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md)
-2. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067064079) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
-3. 🔓 Reopened issue [#166](https://github.com/gurusabarish/hugo-profile/issues/166) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
-4. ❌ Closed PR [#167](https://github.com/gurusabarish/hugo-profile/pull/167) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
-5. 🗣 Commented on [#166](https://github.com/gurusabarish/hugo-profile/issues/166#issuecomment-2067061165) in [gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
+1. 🔒 Closed issue [#43](https://github.com/adyanth/openwrt-tailscale-enabler/issues/43) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🔒 Closed issue [#42](https://github.com/adyanth/openwrt-tailscale-enabler/issues/42) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#22](https://github.com/adyanth/openwrt-tailscale-enabler/issues/22#issuecomment-2094351916) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+4. 🔒 Closed issue [#22](https://github.com/adyanth/openwrt-tailscale-enabler/issues/22) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🗣 Commented on [#36](https://github.com/adyanth/openwrt-tailscale-enabler/issues/36#issuecomment-2094351760) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
