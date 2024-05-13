@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/adyanth/openwrt-tailscale-enabler/issues/48#issuecomment-2105549490) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🔒 Closed issue [#47](https://github.com/adyanth/openwrt-tailscale-enabler/issues/47) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🗣 Commented on [#47](https://github.com/adyanth/openwrt-tailscale-enabler/issues/47#issuecomment-2105549118) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-4. 🔒 Closed issue [#43](https://github.com/adyanth/openwrt-tailscale-enabler/issues/43) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🔒 Closed issue [#42](https://github.com/adyanth/openwrt-tailscale-enabler/issues/42) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🗣 Commented on [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49#issuecomment-2106370503) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🔒 Closed issue [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. ❗ Opened issue [#11576](https://github.com/jellyfin/jellyfin/issues/11576) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+4. 🗣 Commented on [#48](https://github.com/adyanth/openwrt-tailscale-enabler/issues/48#issuecomment-2105549490) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🔒 Closed issue [#47](https://github.com/adyanth/openwrt-tailscale-enabler/issues/47) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
