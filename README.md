@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49#issuecomment-2106370503) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🔒 Closed issue [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. ❗ Opened issue [#11576](https://github.com/jellyfin/jellyfin/issues/11576) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-4. 🗣 Commented on [#48](https://github.com/adyanth/openwrt-tailscale-enabler/issues/48#issuecomment-2105549490) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🔒 Closed issue [#47](https://github.com/adyanth/openwrt-tailscale-enabler/issues/47) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🚀 Published release [v1.0.6 Fix status on command failure with invert status](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+2. 🚀 Published release [v1.0.6 Inverse Status on command failure](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+3. 🎉 Merged PR [#7](https://github.com/adyanth/homebridge-plugin-command/pull/7) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+4. 🗣 Commented on [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49#issuecomment-2106370503) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+5. 🔒 Closed issue [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
