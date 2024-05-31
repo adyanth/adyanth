@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.6 Fix status on command failure with invert status](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-2. 🚀 Published release [v1.0.6 Inverse Status on command failure](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-3. 🎉 Merged PR [#7](https://github.com/adyanth/homebridge-plugin-command/pull/7) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-4. 🗣 Commented on [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49#issuecomment-2106370503) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. 🔒 Closed issue [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. ❗ Opened issue [#149](https://github.com/luthermonson/go-proxmox/issues/149) in [luthermonson/go-proxmox](https://github.com/luthermonson/go-proxmox)
+2. 🚀 Published release [v1.0.6 Fix status on command failure with invert status](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+3. 🚀 Published release [v1.0.6 Inverse Status on command failure](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+4. 🎉 Merged PR [#7](https://github.com/adyanth/homebridge-plugin-command/pull/7) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+5. 🗣 Commented on [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49#issuecomment-2106370503) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 <!--END_SECTION:activity-->
 
 </details>
