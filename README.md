@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#149](https://github.com/luthermonson/go-proxmox/issues/149) in [luthermonson/go-proxmox](https://github.com/luthermonson/go-proxmox)
-2. 🚀 Published release [v1.0.6 Fix status on command failure with invert status](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-3. 🚀 Published release [v1.0.6 Inverse Status on command failure](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-4. 🎉 Merged PR [#7](https://github.com/adyanth/homebridge-plugin-command/pull/7) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-5. 🗣 Commented on [#49](https://github.com/adyanth/openwrt-tailscale-enabler/issues/49#issuecomment-2106370503) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+1. 🔒 Closed issue [#8](https://github.com/adyanth/homebridge-plugin-command/issues/8) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+2. 🗣 Commented on [#8](https://github.com/adyanth/homebridge-plugin-command/issues/8#issuecomment-2143950651) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+3. ❗ Opened issue [#149](https://github.com/luthermonson/go-proxmox/issues/149) in [luthermonson/go-proxmox](https://github.com/luthermonson/go-proxmox)
+4. 🚀 Published release [v1.0.6 Fix status on command failure with invert status](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+5. 🚀 Published release [v1.0.6 Inverse Status on command failure](https://github.com/adyanth/homebridge-plugin-command/releases/tag/v1.0.6) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
 <!--END_SECTION:activity-->
 
 </details>
