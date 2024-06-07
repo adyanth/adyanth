@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6886](https://github.com/kubernetes/autoscaler/issues/6886) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-2. 💪 Opened PR [#1](https://github.com/adyanth/autoscaler/pull/1) in [adyanth/autoscaler](https://github.com/adyanth/autoscaler)
-3. 🔒 Closed issue [#8](https://github.com/adyanth/homebridge-plugin-command/issues/8) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-4. 🗣 Commented on [#8](https://github.com/adyanth/homebridge-plugin-command/issues/8#issuecomment-2143950651) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-5. ❗ Opened issue [#149](https://github.com/luthermonson/go-proxmox/issues/149) in [luthermonson/go-proxmox](https://github.com/luthermonson/go-proxmox)
+1. 🗣 Commented on [#48](https://github.com/cortexproject/cortex-tools/issues/48#issuecomment-2153199890) in [cortexproject/cortex-tools](https://github.com/cortexproject/cortex-tools)
+2. ❗ Opened issue [#48](https://github.com/cortexproject/cortex-tools/issues/48) in [cortexproject/cortex-tools](https://github.com/cortexproject/cortex-tools)
+3. ❗ Opened issue [#6886](https://github.com/kubernetes/autoscaler/issues/6886) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+4. 💪 Opened PR [#1](https://github.com/adyanth/autoscaler/pull/1) in [adyanth/autoscaler](https://github.com/adyanth/autoscaler)
+5. 🔒 Closed issue [#8](https://github.com/adyanth/homebridge-plugin-command/issues/8) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
 <!--END_SECTION:activity-->
 
 </details>
