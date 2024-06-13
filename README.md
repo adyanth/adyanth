@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6551](https://github.com/FreshRSS/FreshRSS/issues/6551#issuecomment-2160811575) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-2. ❗ Opened issue [#6551](https://github.com/FreshRSS/FreshRSS/issues/6551) in [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-3. 🗣 Commented on [#48](https://github.com/cortexproject/cortex-tools/issues/48#issuecomment-2153199890) in [cortexproject/cortex-tools](https://github.com/cortexproject/cortex-tools)
-4. ❗ Opened issue [#48](https://github.com/cortexproject/cortex-tools/issues/48) in [cortexproject/cortex-tools](https://github.com/cortexproject/cortex-tools)
-5. ❗ Opened issue [#6886](https://github.com/kubernetes/autoscaler/issues/6886) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+1. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2161979966) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+2. 🗣 Commented on [#95](https://github.com/adyanth/cloudflare-operator/issues/95#issuecomment-2161974610) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🔒 Closed issue [#95](https://github.com/adyanth/cloudflare-operator/issues/95) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#96](https://github.com/adyanth/cloudflare-operator/issues/96#issuecomment-2161971777) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. ❗ Opened issue [#99](https://github.com/adyanth/cloudflare-operator/issues/99) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
