@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2161979966) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-2. 🗣 Commented on [#95](https://github.com/adyanth/cloudflare-operator/issues/95#issuecomment-2161974610) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🔒 Closed issue [#95](https://github.com/adyanth/cloudflare-operator/issues/95) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#96](https://github.com/adyanth/cloudflare-operator/issues/96#issuecomment-2161971777) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. ❗ Opened issue [#99](https://github.com/adyanth/cloudflare-operator/issues/99) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🚀 Published release [v0.10.3 Support nodeSelector and tolerations](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🎉 Merged PR [#98](https://github.com/adyanth/cloudflare-operator/pull/98) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2161979966) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+4. 🗣 Commented on [#95](https://github.com/adyanth/cloudflare-operator/issues/95#issuecomment-2161974610) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🔒 Closed issue [#95](https://github.com/adyanth/cloudflare-operator/issues/95) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
