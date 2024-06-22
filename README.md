@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.10.4 Configurable cloudflared protocol](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🎉 Merged PR [#100](https://github.com/adyanth/cloudflare-operator/pull/100) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🚀 Published release [v0.10.3 Support nodeSelector and tolerations](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🎉 Merged PR [#98](https://github.com/adyanth/cloudflare-operator/pull/98) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2161979966) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+1. ❗ Opened issue [#3889](https://github.com/prometheus/alertmanager/issues/3889) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+2. 🚀 Published release [v0.10.4 Configurable cloudflared protocol](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#100](https://github.com/adyanth/cloudflare-operator/pull/100) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🚀 Published release [v0.10.3 Support nodeSelector and tolerations](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#98](https://github.com/adyanth/cloudflare-operator/pull/98) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
