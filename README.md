@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/adyanth/openwrt-tailscale-enabler/issues/50#issuecomment-2184092867) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. ❗ Opened issue [#3889](https://github.com/prometheus/alertmanager/issues/3889) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
-3. 🚀 Published release [v0.10.4 Configurable cloudflared protocol](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🎉 Merged PR [#100](https://github.com/adyanth/cloudflare-operator/pull/100) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🚀 Published release [v0.10.3 Support nodeSelector and tolerations](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.3) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#3889](https://github.com/prometheus/alertmanager/issues/3889#issuecomment-2192650282) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+2. 🗣 Commented on [#50](https://github.com/adyanth/openwrt-tailscale-enabler/issues/50#issuecomment-2184092867) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. ❗ Opened issue [#3889](https://github.com/prometheus/alertmanager/issues/3889) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+4. 🚀 Published release [v0.10.4 Configurable cloudflared protocol](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.10.4) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#100](https://github.com/adyanth/cloudflare-operator/pull/100) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
