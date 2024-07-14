@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/19) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-2. 🗣 Commented on [#19](https://github.com/adyanth/QuickLook.Plugin.FolderViewer/issues/19#issuecomment-2212425786) in [adyanth/QuickLook.Plugin.FolderViewer](https://github.com/adyanth/QuickLook.Plugin.FolderViewer)
-3. 🗣 Commented on [#3889](https://github.com/prometheus/alertmanager/issues/3889#issuecomment-2192650282) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
-4. 🗣 Commented on [#50](https://github.com/adyanth/openwrt-tailscale-enabler/issues/50#issuecomment-2184092867) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-5. ❗ Opened issue [#3889](https://github.com/prometheus/alertmanager/issues/3889) in [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
+1. 🗣 Commented on [#102](https://github.com/adyanth/cloudflare-operator/issues/102#issuecomment-2227122788) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❗ Opened issue [#15](https://github.com/coletdjnz/yt-dlp-youtube-oauth2/issues/15) in [coletdjnz/yt-dlp-youtube-oauth2](https://github.com/coletdjnz/yt-dlp-youtube-oauth2)
+3. 🎉 Merged PR [#48](https://github.com/adyanth/shortpaste/pull/48) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+4. 🗣 Commented on [#101](https://github.com/adyanth/cloudflare-operator/issues/101#issuecomment-2227098476) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🔒 Closed issue [#101](https://github.com/adyanth/cloudflare-operator/issues/101) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
