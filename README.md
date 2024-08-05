@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/adyanth/cloudflare-operator/issues/103#issuecomment-2253639576) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🔒 Closed issue [#103](https://github.com/adyanth/cloudflare-operator/issues/103) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#102](https://github.com/adyanth/cloudflare-operator/issues/102#issuecomment-2227122788) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. ❗ Opened issue [#15](https://github.com/coletdjnz/yt-dlp-youtube-oauth2/issues/15) in [coletdjnz/yt-dlp-youtube-oauth2](https://github.com/coletdjnz/yt-dlp-youtube-oauth2)
-5. 🎉 Merged PR [#48](https://github.com/adyanth/shortpaste/pull/48) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🗣 Commented on [#1541](https://github.com/koush/scrypted/issues/1541#issuecomment-2267226541) in [koush/scrypted](https://github.com/koush/scrypted)
+2. ❗ Opened issue [#1541](https://github.com/koush/scrypted/issues/1541) in [koush/scrypted](https://github.com/koush/scrypted)
+3. 🗣 Commented on [#103](https://github.com/adyanth/cloudflare-operator/issues/103#issuecomment-2253639576) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🔒 Closed issue [#103](https://github.com/adyanth/cloudflare-operator/issues/103) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#102](https://github.com/adyanth/cloudflare-operator/issues/102#issuecomment-2227122788) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
