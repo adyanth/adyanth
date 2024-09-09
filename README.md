@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7209](https://github.com/kubernetes/autoscaler/issues/7209) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-2. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2308971885) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-3. 🗣 Commented on [#104](https://github.com/adyanth/cloudflare-operator/issues/104#issuecomment-2297719090) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#1541](https://github.com/koush/scrypted/issues/1541#issuecomment-2267226541) in [koush/scrypted](https://github.com/koush/scrypted)
-5. ❗ Opened issue [#1541](https://github.com/koush/scrypted/issues/1541) in [koush/scrypted](https://github.com/koush/scrypted)
+1. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2336710515) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+2. 🔒 Closed issue [#6886](https://github.com/kubernetes/autoscaler/issues/6886) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+3. ❗ Opened issue [#7209](https://github.com/kubernetes/autoscaler/issues/7209) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+4. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2308971885) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+5. 🗣 Commented on [#104](https://github.com/adyanth/cloudflare-operator/issues/104#issuecomment-2297719090) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
