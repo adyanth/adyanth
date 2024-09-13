@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/adyanth/cloudflare-operator/issues/105#issuecomment-2342592250) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2336710515) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-3. 🔒 Closed issue [#6886](https://github.com/kubernetes/autoscaler/issues/6886) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-4. ❗ Opened issue [#7209](https://github.com/kubernetes/autoscaler/issues/7209) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-5. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2308971885) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+1. 🗣 Commented on [#107](https://github.com/adyanth/cloudflare-operator/issues/107#issuecomment-2345227005) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🔒 Closed issue [#107](https://github.com/adyanth/cloudflare-operator/issues/107) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#105](https://github.com/adyanth/cloudflare-operator/issues/105#issuecomment-2345074027) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🔒 Closed issue [#105](https://github.com/adyanth/cloudflare-operator/issues/105) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#106](https://github.com/adyanth/cloudflare-operator/pull/106) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
