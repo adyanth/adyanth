@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13413](https://github.com/argoproj/argo-cd/issues/13413#issuecomment-2393874377) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. 🎉 Merged PR [#12](https://github.com/adyanth/splitwise-firefly-sync/pull/12) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 🗣 Commented on [#12](https://github.com/adyanth/splitwise-firefly-sync/pull/12#issuecomment-2384550741) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2384548607) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-5. 🗣 Commented on [#874](https://github.com/p0deje/Maccy/issues/874#issuecomment-2356177862) in [p0deje/Maccy](https://github.com/p0deje/Maccy)
+1. 🚀 Published release [v0.1.1 Fix for custom PGDATA](https://github.com/adyanth/psqlmin/releases/tag/v0.1.1) in [adyanth/psqlmin](https://github.com/adyanth/psqlmin)
+2. 🚀 Published release [v0.1.0 Initial Release](https://github.com/adyanth/psqlmin/releases/tag/v0.1.0) in [adyanth/psqlmin](https://github.com/adyanth/psqlmin)
+3. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2398190346) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. 🗣 Commented on [#13413](https://github.com/argoproj/argo-cd/issues/13413#issuecomment-2393874377) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+5. 🎉 Merged PR [#12](https://github.com/adyanth/splitwise-firefly-sync/pull/12) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
 </details>
