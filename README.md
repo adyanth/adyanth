@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/lucasmcht/truenas-charts/issues/1#issuecomment-2403842042) in [lucasmcht/truenas-charts](https://github.com/lucasmcht/truenas-charts)
-2. ❗ Opened issue [#1](https://github.com/lucasmcht/truenas-charts/issues/1) in [lucasmcht/truenas-charts](https://github.com/lucasmcht/truenas-charts)
-3. 💪 Opened PR [#2862](https://github.com/truenas/charts/pull/2862) in [truenas/charts](https://github.com/truenas/charts)
-4. ❌ Closed PR [#2861](https://github.com/truenas/charts/pull/2861) in [truenas/charts](https://github.com/truenas/charts)
-5. 💪 Opened PR [#2861](https://github.com/truenas/charts/pull/2861) in [truenas/charts](https://github.com/truenas/charts)
+1. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2409446394) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+2. 🗣 Commented on [#1](https://github.com/lucasmcht/truenas-charts/issues/1#issuecomment-2403842042) in [lucasmcht/truenas-charts](https://github.com/lucasmcht/truenas-charts)
+3. ❗ Opened issue [#1](https://github.com/lucasmcht/truenas-charts/issues/1) in [lucasmcht/truenas-charts](https://github.com/lucasmcht/truenas-charts)
+4. 💪 Opened PR [#2862](https://github.com/truenas/charts/pull/2862) in [truenas/charts](https://github.com/truenas/charts)
+5. ❌ Closed PR [#2861](https://github.com/truenas/charts/pull/2861) in [truenas/charts](https://github.com/truenas/charts)
 <!--END_SECTION:activity-->
 
 </details>
