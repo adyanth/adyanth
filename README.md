@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/adyanth/splitwise-firefly-sync/pull/18) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-2. 💪 Opened PR [#18](https://github.com/adyanth/splitwise-firefly-sync/pull/18) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 🎉 Merged PR [#17](https://github.com/adyanth/splitwise-firefly-sync/pull/17) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 💪 Opened PR [#17](https://github.com/adyanth/splitwise-firefly-sync/pull/17) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-5. 🔒 Closed issue [#15](https://github.com/adyanth/splitwise-firefly-sync/issues/15) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+1. 🗣 Commented on [#20](https://github.com/jbowens/request-catcher/issues/20#issuecomment-2427049741) in [jbowens/request-catcher](https://github.com/jbowens/request-catcher)
+2. ❗ Opened issue [#20](https://github.com/jbowens/request-catcher/issues/20) in [jbowens/request-catcher](https://github.com/jbowens/request-catcher)
+3. 🎉 Merged PR [#18](https://github.com/adyanth/splitwise-firefly-sync/pull/18) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. 💪 Opened PR [#18](https://github.com/adyanth/splitwise-firefly-sync/pull/18) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. 🎉 Merged PR [#17](https://github.com/adyanth/splitwise-firefly-sync/pull/17) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
 </details>
