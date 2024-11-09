@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://adyanth.site/index.xml"
+          feed_list: "https://adyanth.site/posts/index.xml"
