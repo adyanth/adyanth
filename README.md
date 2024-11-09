@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CSE 231 Compiler Construction and Optimization](https://adyanth.dev/posts/ucsd/cse231-compiler-construction/)
-- [CSE 257 - Search and Optimization](https://adyanth.dev/posts/ucsd/cse257-search-and-optimization/)
-- [CSE 224 Graduate Networked Systems](https://adyanth.dev/posts/ucsd/cse224-graduate-networking/)
-- [CSE 260 - Parallel Computing](https://adyanth.dev/posts/ucsd/cse260-parallel-computing/)
-- [CSE 291 - Virtualization](https://adyanth.dev/posts/ucsd/cse291-virtualization/)
+- [PSQLmin](https://adyanth.site/posts/psqlmin/)
+- [CSE 231 - Compiler Construction and Optimization](https://adyanth.site/posts/ucsd/cse231-compiler-construction/)
+- [CSE 257 - Search and Optimization](https://adyanth.site/posts/ucsd/cse257-search-and-optimization/)
+- [CSE 224 - Graduate Networked Systems](https://adyanth.site/posts/ucsd/cse224-graduate-networking/)
+- [CSE 260 - Parallel Computing](https://adyanth.site/posts/ucsd/cse260-parallel-computing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://adyanth.dev/archives/)
