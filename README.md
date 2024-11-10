@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0 Multi version multi arch builds](https://github.com/adyanth/psqlmin/releases/tag/v0.2.0) in [adyanth/psqlmin](https://github.com/adyanth/psqlmin)
-2. 🚀 Published release [v0.2.0 Multi version multi arch builds](https://github.com/adyanth/psqlmin/releases/tag/v0.2.0) in [adyanth/psqlmin](https://github.com/adyanth/psqlmin)
-3. 🗣 Commented on [#9443](https://github.com/firefly-iii/firefly-iii/issues/9443#issuecomment-2464121359) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-4. 🗣 Commented on [#9443](https://github.com/firefly-iii/firefly-iii/issues/9443#issuecomment-2464040803) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-5. 🗣 Commented on [#9443](https://github.com/firefly-iii/firefly-iii/issues/9443#issuecomment-2464002241) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+1. 🗣 Commented on [#112](https://github.com/adyanth/cloudflare-operator/issues/112#issuecomment-2466004055) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🔒 Closed issue [#112](https://github.com/adyanth/cloudflare-operator/issues/112) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#113](https://github.com/adyanth/cloudflare-operator/issues/113#issuecomment-2466003072) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🔒 Closed issue [#113](https://github.com/adyanth/cloudflare-operator/issues/113) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🚀 Published release [v0.2.0 Multi version multi arch builds](https://github.com/adyanth/psqlmin/releases/tag/v0.2.0) in [adyanth/psqlmin](https://github.com/adyanth/psqlmin)
 <!--END_SECTION:activity-->
 
 </details>
