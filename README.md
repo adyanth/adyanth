@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/adyanth/splitwise-firefly-sync/pull/22) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-2. 🗣 Commented on [#112](https://github.com/adyanth/cloudflare-operator/issues/112#issuecomment-2466004055) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🔒 Closed issue [#112](https://github.com/adyanth/cloudflare-operator/issues/112) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#113](https://github.com/adyanth/cloudflare-operator/issues/113#issuecomment-2466003072) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🔒 Closed issue [#113](https://github.com/adyanth/cloudflare-operator/issues/113) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#23](https://github.com/adyanth/splitwise-firefly-sync/pull/23#issuecomment-2469725192) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+2. 🎉 Merged PR [#22](https://github.com/adyanth/splitwise-firefly-sync/pull/22) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+3. 🗣 Commented on [#112](https://github.com/adyanth/cloudflare-operator/issues/112#issuecomment-2466004055) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🔒 Closed issue [#112](https://github.com/adyanth/cloudflare-operator/issues/112) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#113](https://github.com/adyanth/cloudflare-operator/issues/113#issuecomment-2466003072) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
