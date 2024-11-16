@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/adyanth/homebridge-plugin-command/issues/6#issuecomment-2475587519) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-2. 🗣 Commented on [#9](https://github.com/adyanth/homebridge-plugin-command/issues/9#issuecomment-2475577294) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-3. 🎉 Merged PR [#23](https://github.com/adyanth/splitwise-firefly-sync/pull/23) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. ❗ Opened issue [#21](https://github.com/jbowens/request-catcher/issues/21) in [jbowens/request-catcher](https://github.com/jbowens/request-catcher)
-5. 🗣 Commented on [#23](https://github.com/adyanth/splitwise-firefly-sync/pull/23#issuecomment-2472856101) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+1. 🔒 Closed issue [#57](https://github.com/adyanth/openwrt-tailscale-enabler/issues/57) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+2. 🗣 Commented on [#57](https://github.com/adyanth/openwrt-tailscale-enabler/issues/57#issuecomment-2477051961) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
+3. 🗣 Commented on [#6](https://github.com/adyanth/homebridge-plugin-command/issues/6#issuecomment-2475587519) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+4. 🗣 Commented on [#9](https://github.com/adyanth/homebridge-plugin-command/issues/9#issuecomment-2475577294) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+5. 🎉 Merged PR [#23](https://github.com/adyanth/splitwise-firefly-sync/pull/23) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
 </details>
