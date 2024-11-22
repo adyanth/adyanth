@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#57](https://github.com/adyanth/openwrt-tailscale-enabler/issues/57) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-2. 🗣 Commented on [#57](https://github.com/adyanth/openwrt-tailscale-enabler/issues/57#issuecomment-2477051961) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🗣 Commented on [#6](https://github.com/adyanth/homebridge-plugin-command/issues/6#issuecomment-2475587519) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-4. 🗣 Commented on [#9](https://github.com/adyanth/homebridge-plugin-command/issues/9#issuecomment-2475577294) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
-5. 🎉 Merged PR [#23](https://github.com/adyanth/splitwise-firefly-sync/pull/23) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+1. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2490137517) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
+2. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2490131007) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
+3. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2490129350) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
+4. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2490122360) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
+5. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2490119693) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
 <!--END_SECTION:activity-->
 
 </details>
