@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#996](https://github.com/truenas/apps/issues/996) in [truenas/apps](https://github.com/truenas/apps)
-2. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2493665824) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2492796752) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2492660939) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
-5. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2491517253) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
+1. 🗣 Commented on [#25](https://github.com/adyanth/splitwise-firefly-sync/pull/25#issuecomment-2515244211) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+2. ❗ Opened issue [#996](https://github.com/truenas/apps/issues/996) in [truenas/apps](https://github.com/truenas/apps)
+3. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2493665824) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2492796752) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. 🗣 Commented on [#3](https://github.com/0xGiddi/qnap8528/issues/3#issuecomment-2492660939) in [0xGiddi/qnap8528](https://github.com/0xGiddi/qnap8528)
 <!--END_SECTION:activity-->
 
 </details>
