@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2543370840) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-2. 🔒 Closed issue [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 🎉 Merged PR [#25](https://github.com/adyanth/splitwise-firefly-sync/pull/25) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 🗣 Commented on [#25](https://github.com/adyanth/splitwise-firefly-sync/pull/25#issuecomment-2543370731) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-5. 💪 Opened PR [#50](https://github.com/adyanth/shortpaste/pull/50) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+1. 🎉 Merged PR [#117](https://github.com/adyanth/cloudflare-operator/pull/117) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9#issuecomment-2543370840) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+3. 🔒 Closed issue [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. 🎉 Merged PR [#25](https://github.com/adyanth/splitwise-firefly-sync/pull/25) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. 🗣 Commented on [#25](https://github.com/adyanth/splitwise-firefly-sync/pull/25#issuecomment-2543370731) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
 </details>
