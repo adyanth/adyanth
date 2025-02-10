@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/adyanth/cloudflare-operator/pull/119) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#119](https://github.com/adyanth/cloudflare-operator/pull/119#issuecomment-2631468091) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#119](https://github.com/adyanth/cloudflare-operator/pull/119#issuecomment-2629738854) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#536](https://github.com/hargata/lubelog/issues/536#issuecomment-2585591795) in [hargata/lubelog](https://github.com/hargata/lubelog)
-5. 🔒 Closed issue [#9](https://github.com/adyanth/splitwise-firefly-sync/issues/9) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+1. 🎉 Merged PR [#120](https://github.com/adyanth/cloudflare-operator/pull/120) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#120](https://github.com/adyanth/cloudflare-operator/pull/120#issuecomment-2646547800) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#119](https://github.com/adyanth/cloudflare-operator/pull/119) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#119](https://github.com/adyanth/cloudflare-operator/pull/119#issuecomment-2631468091) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#119](https://github.com/adyanth/cloudflare-operator/pull/119#issuecomment-2629738854) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
