@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/adyanth/splitwise-firefly-sync/issues/26#issuecomment-2726060349) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-2. 🔒 Closed issue [#26](https://github.com/adyanth/splitwise-firefly-sync/issues/26) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 🎉 Merged PR [#28](https://github.com/adyanth/splitwise-firefly-sync/pull/28) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 🎉 Merged PR [#29](https://github.com/adyanth/splitwise-firefly-sync/pull/29) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-5. 🗣 Commented on [#29](https://github.com/adyanth/splitwise-firefly-sync/pull/29#issuecomment-2726059007) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+1. 🚀 Published release [v0.4.1 Fix speed units](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.1) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+2. 🚀 Published release [v0.4.0 Small fixes](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+3. 🚀 Published release [v0.3.0 More MIME Types](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.3.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+4. 🚀 Published release [v0.2.0 Configurable delay](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.2.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+5. 🚀 Published release [v0.1.0 First release!](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.1.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
 <!--END_SECTION:activity-->
 
 </details>
