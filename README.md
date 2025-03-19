@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.1 Fix speed units](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.1) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
-2. 🚀 Published release [v0.4.0 Small fixes](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
-3. 🚀 Published release [v0.3.0 More MIME Types](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.3.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
-4. 🚀 Published release [v0.2.0 Configurable delay](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.2.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
-5. 🚀 Published release [v0.1.0 First release!](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.1.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+1. 🚀 Published release [v0.1.0](https://github.com/adyanth/terraform-provider-streamnative/releases/tag/v0.1.0) in [adyanth/terraform-provider-streamnative](https://github.com/adyanth/terraform-provider-streamnative)
+2. 🚀 Published release [v0.4.1 Fix speed units](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.1) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+3. 🚀 Published release [v0.4.0 Small fixes](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+4. 🚀 Published release [v0.3.0 More MIME Types](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.3.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+5. 🚀 Published release [v0.2.0 Configurable delay](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.2.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
 <!--END_SECTION:activity-->
 
 </details>
