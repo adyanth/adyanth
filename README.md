@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#403](https://github.com/argoproj-labs/terraform-provider-argocd/issues/403#issuecomment-2738026336) in [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd)
-2. 🚀 Published release [v0.1.0](https://github.com/adyanth/terraform-provider-streamnative/releases/tag/v0.1.0) in [adyanth/terraform-provider-streamnative](https://github.com/adyanth/terraform-provider-streamnative)
-3. 🚀 Published release [v0.4.1 Fix speed units](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.1) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
-4. 🚀 Published release [v0.4.0 Small fixes](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.4.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
-5. 🚀 Published release [v0.3.0 More MIME Types](https://github.com/adyanth/slopes-visualizer/releases/tag/v0.3.0) in [adyanth/slopes-visualizer](https://github.com/adyanth/slopes-visualizer)
+1. 🗣 Commented on [#126](https://github.com/adyanth/cloudflare-operator/issues/126#issuecomment-2754631425) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#118](https://github.com/adyanth/cloudflare-operator/issues/118#issuecomment-2754625828) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#125](https://github.com/adyanth/cloudflare-operator/issues/125#issuecomment-2754620473) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#126](https://github.com/adyanth/cloudflare-operator/issues/126#issuecomment-2754591629) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#128](https://github.com/adyanth/cloudflare-operator/issues/128#issuecomment-2754583747) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
