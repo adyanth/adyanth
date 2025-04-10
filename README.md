@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.11.1 Bunch of dep updates](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.11.1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🚀 Published release [v0.11.0 Bunch of dep updates](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.11.0) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🔒 Closed issue [#124](https://github.com/adyanth/cloudflare-operator/issues/124) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🎉 Merged PR [#129](https://github.com/adyanth/cloudflare-operator/pull/129) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#129](https://github.com/adyanth/cloudflare-operator/pull/129#issuecomment-2784992458) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790823007) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
+2. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790621863) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
+3. 🔒 Closed issue [#3868](https://github.com/projectlombok/lombok/issues/3868) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
+4. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790602191) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
+5. ❗ Opened issue [#3868](https://github.com/projectlombok/lombok/issues/3868) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
 <!--END_SECTION:activity-->
 
 </details>
