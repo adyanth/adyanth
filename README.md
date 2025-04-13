@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790823007) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
-2. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790621863) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
-3. 🔒 Closed issue [#3868](https://github.com/projectlombok/lombok/issues/3868) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
-4. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790602191) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
-5. ❗ Opened issue [#3868](https://github.com/projectlombok/lombok/issues/3868) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
+1. 🔒 Closed issue [#110](https://github.com/adyanth/cloudflare-operator/issues/110) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🎉 Merged PR [#130](https://github.com/adyanth/cloudflare-operator/pull/130) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790823007) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
+4. 🗣 Commented on [#3868](https://github.com/projectlombok/lombok/issues/3868#issuecomment-2790621863) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
+5. 🔒 Closed issue [#3868](https://github.com/projectlombok/lombok/issues/3868) in [projectlombok/lombok](https://github.com/projectlombok/lombok)
 <!--END_SECTION:activity-->
 
 </details>
