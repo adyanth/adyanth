@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.12.0 AccessTunnel Controller!](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.12.0) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🔒 Closed issue [#43](https://github.com/adyanth/cloudflare-operator/issues/43) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🎉 Merged PR [#132](https://github.com/adyanth/cloudflare-operator/pull/132) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#67](https://github.com/adyanth/cloudflare-operator/issues/67#issuecomment-2834268638) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 💪 Opened PR [#132](https://github.com/adyanth/cloudflare-operator/pull/132) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2838685600) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#141](https://github.com/adyanth/cloudflare-operator/pull/141#issuecomment-2838662007) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#141](https://github.com/adyanth/cloudflare-operator/pull/141#issuecomment-2838599103) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2838053213) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 💪 Opened PR [#140](https://github.com/adyanth/cloudflare-operator/pull/140) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
