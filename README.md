@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2838685600) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#141](https://github.com/adyanth/cloudflare-operator/pull/141#issuecomment-2838662007) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#141](https://github.com/adyanth/cloudflare-operator/pull/141#issuecomment-2838599103) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2838053213) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 💪 Opened PR [#140](https://github.com/adyanth/cloudflare-operator/pull/140) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🎉 Merged PR [#141](https://github.com/adyanth/cloudflare-operator/pull/141) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2838685600) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#141](https://github.com/adyanth/cloudflare-operator/pull/141#issuecomment-2838662007) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#141](https://github.com/adyanth/cloudflare-operator/pull/141#issuecomment-2838599103) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2838053213) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
