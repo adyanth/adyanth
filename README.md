@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/adyanth/cloudflare-operator/issues/153#issuecomment-2854868727) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2854839671) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2854798702) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#403](https://github.com/argoproj-labs/terraform-provider-argocd/issues/403#issuecomment-2854789233) in [argoproj-labs/terraform-provider-argocd](https://github.com/argoproj-labs/terraform-provider-argocd)
-5. 🗣 Commented on [#153](https://github.com/adyanth/cloudflare-operator/issues/153#issuecomment-2854778773) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#153](https://github.com/adyanth/cloudflare-operator/issues/153#issuecomment-2856709789) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#153](https://github.com/adyanth/cloudflare-operator/issues/153#issuecomment-2856706225) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2856687759) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#153](https://github.com/adyanth/cloudflare-operator/issues/153#issuecomment-2854868727) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#133](https://github.com/adyanth/cloudflare-operator/issues/133#issuecomment-2854839671) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
