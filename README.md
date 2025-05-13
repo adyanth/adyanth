@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/adyanth/trueqnas/issues/1) in [adyanth/trueqnas](https://github.com/adyanth/trueqnas)
-2. 🗣 Commented on [#163](https://github.com/adyanth/cloudflare-operator/issues/163#issuecomment-2869329661) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#2](https://github.com/forkhammer/kaban-board/issues/2#issuecomment-2868701728) in [forkhammer/kaban-board](https://github.com/forkhammer/kaban-board)
-4. 🗣 Commented on [#155](https://github.com/adyanth/cloudflare-operator/issues/155#issuecomment-2866971867) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🔒 Closed issue [#155](https://github.com/adyanth/cloudflare-operator/issues/155) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🎉 Merged PR [#164](https://github.com/adyanth/cloudflare-operator/pull/164) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. ❗ Opened issue [#1](https://github.com/adyanth/trueqnas/issues/1) in [adyanth/trueqnas](https://github.com/adyanth/trueqnas)
+3. 🗣 Commented on [#163](https://github.com/adyanth/cloudflare-operator/issues/163#issuecomment-2869329661) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#2](https://github.com/forkhammer/kaban-board/issues/2#issuecomment-2868701728) in [forkhammer/kaban-board](https://github.com/forkhammer/kaban-board)
+5. 🗣 Commented on [#155](https://github.com/adyanth/cloudflare-operator/issues/155#issuecomment-2866971867) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
