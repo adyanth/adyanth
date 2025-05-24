@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4800](https://github.com/fatedier/frp/issues/4800#issuecomment-2893091325) in [fatedier/frp](https://github.com/fatedier/frp)
-2. ❗ Opened issue [#4800](https://github.com/fatedier/frp/issues/4800) in [fatedier/frp](https://github.com/fatedier/frp)
-3. 🔒 Closed issue [#125](https://github.com/adyanth/cloudflare-operator/issues/125) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🎉 Merged PR [#165](https://github.com/adyanth/cloudflare-operator/pull/165) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#163](https://github.com/adyanth/cloudflare-operator/issues/163#issuecomment-2874774171) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#190](https://github.com/leinelissen/jellyfin-audio-player/issues/190#issuecomment-2903534022) in [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player)
+2. 🗣 Commented on [#4800](https://github.com/fatedier/frp/issues/4800#issuecomment-2893091325) in [fatedier/frp](https://github.com/fatedier/frp)
+3. ❗ Opened issue [#4800](https://github.com/fatedier/frp/issues/4800) in [fatedier/frp](https://github.com/fatedier/frp)
+4. 🔒 Closed issue [#125](https://github.com/adyanth/cloudflare-operator/issues/125) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#165](https://github.com/adyanth/cloudflare-operator/pull/165) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
