@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#167](https://github.com/adyanth/cloudflare-operator/issues/167#issuecomment-2920181040) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#190](https://github.com/leinelissen/jellyfin-audio-player/issues/190#issuecomment-2903534022) in [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player)
-3. 🗣 Commented on [#4800](https://github.com/fatedier/frp/issues/4800#issuecomment-2893091325) in [fatedier/frp](https://github.com/fatedier/frp)
-4. ❗ Opened issue [#4800](https://github.com/fatedier/frp/issues/4800) in [fatedier/frp](https://github.com/fatedier/frp)
-5. 🔒 Closed issue [#125](https://github.com/adyanth/cloudflare-operator/issues/125) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 💪 Opened PR [#51](https://github.com/adyanth/shortpaste/pull/51) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
+2. 🗣 Commented on [#167](https://github.com/adyanth/cloudflare-operator/issues/167#issuecomment-2920181040) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#190](https://github.com/leinelissen/jellyfin-audio-player/issues/190#issuecomment-2903534022) in [leinelissen/jellyfin-audio-player](https://github.com/leinelissen/jellyfin-audio-player)
+4. 🗣 Commented on [#4800](https://github.com/fatedier/frp/issues/4800#issuecomment-2893091325) in [fatedier/frp](https://github.com/fatedier/frp)
+5. ❗ Opened issue [#4800](https://github.com/fatedier/frp/issues/4800) in [fatedier/frp](https://github.com/fatedier/frp)
 <!--END_SECTION:activity-->
 
 </details>
