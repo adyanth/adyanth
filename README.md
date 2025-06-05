@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/adyanth/trueqnas/issues/1#issuecomment-2932814651) in [adyanth/trueqnas](https://github.com/adyanth/trueqnas)
-2. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2932484855) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
-3. 🗣 Commented on [#13376](https://github.com/yt-dlp/yt-dlp/issues/13376#issuecomment-2932017981) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-4. 🗣 Commented on [#6351](https://github.com/yt-dlp/yt-dlp/issues/6351#issuecomment-2932008515) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-5. 🗣 Commented on [#13376](https://github.com/yt-dlp/yt-dlp/issues/13376#issuecomment-2931985184) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. 🗣 Commented on [#167](https://github.com/adyanth/cloudflare-operator/issues/167#issuecomment-2937862039) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🔒 Closed issue [#167](https://github.com/adyanth/cloudflare-operator/issues/167) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#1](https://github.com/adyanth/trueqnas/issues/1#issuecomment-2932814651) in [adyanth/trueqnas](https://github.com/adyanth/trueqnas)
+4. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2932484855) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+5. 🗣 Commented on [#13376](https://github.com/yt-dlp/yt-dlp/issues/13376#issuecomment-2932017981) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 <!--END_SECTION:activity-->
 
 </details>
