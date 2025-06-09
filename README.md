@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/steveiliop56/tinyauth/issues/65#issuecomment-2951473643) in [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)
-2. 🗣 Commented on [#167](https://github.com/adyanth/cloudflare-operator/issues/167#issuecomment-2937862039) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🔒 Closed issue [#167](https://github.com/adyanth/cloudflare-operator/issues/167) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#1](https://github.com/adyanth/trueqnas/issues/1#issuecomment-2932814651) in [adyanth/trueqnas](https://github.com/adyanth/trueqnas)
-5. 🗣 Commented on [#6886](https://github.com/kubernetes/autoscaler/issues/6886#issuecomment-2932484855) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+1. 🚀 Published release [v0.13.1 Bug fix: deployment update after ConfigMap change](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.13.1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🔒 Closed issue [#168](https://github.com/adyanth/cloudflare-operator/issues/168) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🎉 Merged PR [#170](https://github.com/adyanth/cloudflare-operator/pull/170) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#65](https://github.com/steveiliop56/tinyauth/issues/65#issuecomment-2953515897) in [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)
+5. 🗣 Commented on [#169](https://github.com/adyanth/cloudflare-operator/issues/169#issuecomment-2953513722) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
