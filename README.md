@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1178](https://github.com/PowerDNS-Admin/PowerDNS-Admin/issues/1178#issuecomment-2954465606) in [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin)
-2. 🚀 Published release [v0.13.1 Bug fix: deployment update after ConfigMap change](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.13.1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🔒 Closed issue [#168](https://github.com/adyanth/cloudflare-operator/issues/168) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🎉 Merged PR [#170](https://github.com/adyanth/cloudflare-operator/pull/170) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#65](https://github.com/steveiliop56/tinyauth/issues/65#issuecomment-2953515897) in [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)
+1. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959099469) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#1178](https://github.com/PowerDNS-Admin/PowerDNS-Admin/issues/1178#issuecomment-2954465606) in [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin)
+3. 🚀 Published release [v0.13.1 Bug fix: deployment update after ConfigMap change](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.13.1) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🔒 Closed issue [#168](https://github.com/adyanth/cloudflare-operator/issues/168) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🎉 Merged PR [#170](https://github.com/adyanth/cloudflare-operator/pull/170) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
