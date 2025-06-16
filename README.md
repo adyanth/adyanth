@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959339234) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959180650) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959211866) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959099469) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#1178](https://github.com/PowerDNS-Admin/PowerDNS-Admin/issues/1178#issuecomment-2954465606) in [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin)
+1. ❗ Opened issue [#1835](https://github.com/koush/scrypted/issues/1835) in [koush/scrypted](https://github.com/koush/scrypted)
+2. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959339234) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959180650) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959211866) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#171](https://github.com/adyanth/cloudflare-operator/issues/171#issuecomment-2959099469) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
