@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/streamnative/terraform-provider-pulsar/pull/137#issuecomment-3120397911) in [streamnative/terraform-provider-pulsar](https://github.com/streamnative/terraform-provider-pulsar)
-2. 🚀 Published release [Initial Release](https://github.com/adyanth/kasa_exporter/releases/tag/v0.1.0) in [adyanth/kasa_exporter](https://github.com/adyanth/kasa_exporter)
-3. 🗣 Commented on [#995](https://github.com/hargata/lubelog/issues/995#issuecomment-3092621013) in [hargata/lubelog](https://github.com/hargata/lubelog)
-4. 🗣 Commented on [#65](https://github.com/steveiliop56/tinyauth/issues/65#issuecomment-3042398149) in [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)
-5. 🗣 Commented on [#65](https://github.com/steveiliop56/tinyauth/issues/65#issuecomment-3042339498) in [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)
+1. 💪 Opened PR [#226](https://github.com/MiguelNdeCarvalho/speedtest-exporter/pull/226) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
+2. 🗣 Commented on [#137](https://github.com/streamnative/terraform-provider-pulsar/pull/137#issuecomment-3120397911) in [streamnative/terraform-provider-pulsar](https://github.com/streamnative/terraform-provider-pulsar)
+3. 🚀 Published release [Initial Release](https://github.com/adyanth/kasa_exporter/releases/tag/v0.1.0) in [adyanth/kasa_exporter](https://github.com/adyanth/kasa_exporter)
+4. 🗣 Commented on [#995](https://github.com/hargata/lubelog/issues/995#issuecomment-3092621013) in [hargata/lubelog](https://github.com/hargata/lubelog)
+5. 🗣 Commented on [#65](https://github.com/steveiliop56/tinyauth/issues/65#issuecomment-3042398149) in [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth)
 <!--END_SECTION:activity-->
 
 </details>
