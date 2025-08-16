@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1272](https://github.com/espressif/esp-matter/issues/1272#issuecomment-3162188602) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
-2. 🔒 Closed issue [#172](https://github.com/adyanth/cloudflare-operator/issues/172) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#172](https://github.com/adyanth/cloudflare-operator/issues/172#issuecomment-3148677755) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 💪 Opened PR [#226](https://github.com/MiguelNdeCarvalho/speedtest-exporter/pull/226) in [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter)
-5. 🗣 Commented on [#137](https://github.com/streamnative/terraform-provider-pulsar/pull/137#issuecomment-3120397911) in [streamnative/terraform-provider-pulsar](https://github.com/streamnative/terraform-provider-pulsar)
+1. 🚀 Published release [v0.1.0 First release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
+2. 🚀 Published release [v0.1.0 First Release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
+3. 🚀 Published release [v0.1.0 First release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
+4. 🗣 Commented on [#1272](https://github.com/espressif/esp-matter/issues/1272#issuecomment-3162188602) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
+5. 🔒 Closed issue [#172](https://github.com/adyanth/cloudflare-operator/issues/172) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
