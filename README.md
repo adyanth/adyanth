@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0 First release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
-2. 🚀 Published release [v0.1.0 First Release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
+1. 🗣 Commented on [#1214](https://github.com/icloud-photos-downloader/icloud_photos_downloader/issues/1214#issuecomment-3193692927) in [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+2. 🗣 Commented on [#1214](https://github.com/icloud-photos-downloader/icloud_photos_downloader/issues/1214#issuecomment-3193686553) in [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
 3. 🚀 Published release [v0.1.0 First release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
-4. 🗣 Commented on [#1272](https://github.com/espressif/esp-matter/issues/1272#issuecomment-3162188602) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
-5. 🔒 Closed issue [#172](https://github.com/adyanth/cloudflare-operator/issues/172) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🚀 Published release [v0.1.0 First Release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
+5. 🚀 Published release [v0.1.0 First release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
 <!--END_SECTION:activity-->
 
 </details>
