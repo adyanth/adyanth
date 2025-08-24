@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/pchwalek/insta360_ble_esp32/issues/7) in [pchwalek/insta360_ble_esp32](https://github.com/pchwalek/insta360_ble_esp32)
-2. 🗣 Commented on [#1214](https://github.com/icloud-photos-downloader/icloud_photos_downloader/issues/1214#issuecomment-3194520268) in [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
-3. 🗣 Commented on [#1214](https://github.com/icloud-photos-downloader/icloud_photos_downloader/issues/1214#issuecomment-3193692927) in [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
-4. 🗣 Commented on [#1214](https://github.com/icloud-photos-downloader/icloud_photos_downloader/issues/1214#issuecomment-3193686553) in [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
-5. 🚀 Published release [v0.1.0 First release](https://github.com/adyanth/swift-esp-matter-builder/releases/tag/v0.1.0) in [adyanth/swift-esp-matter-builder](https://github.com/adyanth/swift-esp-matter-builder)
+1. 🗣 Commented on [#31](https://github.com/adyanth/splitwise-firefly-sync/issues/31#issuecomment-3216117938) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+2. 🔒 Closed issue [#30](https://github.com/adyanth/splitwise-firefly-sync/issues/30) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+3. 🎉 Merged PR [#32](https://github.com/adyanth/splitwise-firefly-sync/pull/32) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. 💪 Opened PR [#32](https://github.com/adyanth/splitwise-firefly-sync/pull/32) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. ❗ Opened issue [#7](https://github.com/pchwalek/insta360_ble_esp32/issues/7) in [pchwalek/insta360_ble_esp32](https://github.com/pchwalek/insta360_ble_esp32)
 <!--END_SECTION:activity-->
 
 </details>
