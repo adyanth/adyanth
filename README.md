@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/adyanth/splitwise-firefly-sync/issues/31#issuecomment-3216117938) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-2. 🔒 Closed issue [#30](https://github.com/adyanth/splitwise-firefly-sync/issues/30) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-3. 🎉 Merged PR [#32](https://github.com/adyanth/splitwise-firefly-sync/pull/32) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 💪 Opened PR [#32](https://github.com/adyanth/splitwise-firefly-sync/pull/32) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-5. ❗ Opened issue [#7](https://github.com/pchwalek/insta360_ble_esp32/issues/7) in [pchwalek/insta360_ble_esp32](https://github.com/pchwalek/insta360_ble_esp32)
+1. 🗣 Commented on [#173](https://github.com/adyanth/cloudflare-operator/issues/173#issuecomment-3249869993) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#31](https://github.com/adyanth/splitwise-firefly-sync/issues/31#issuecomment-3216117938) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+3. 🔒 Closed issue [#30](https://github.com/adyanth/splitwise-firefly-sync/issues/30) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+4. 🎉 Merged PR [#32](https://github.com/adyanth/splitwise-firefly-sync/pull/32) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+5. 💪 Opened PR [#32](https://github.com/adyanth/splitwise-firefly-sync/pull/32) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
 </details>
