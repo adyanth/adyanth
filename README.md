@@ -42,10 +42,10 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#173](https://github.com/adyanth/cloudflare-operator/issues/173) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#173](https://github.com/adyanth/cloudflare-operator/issues/173#issuecomment-3249869993) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#31](https://github.com/adyanth/splitwise-firefly-sync/issues/31#issuecomment-3216117938) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
-4. 🔒 Closed issue [#30](https://github.com/adyanth/splitwise-firefly-sync/issues/30) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
+1. 🗣 Commented on [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22#issuecomment-3346868499) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
+2. ❗ Opened issue [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
+3. 🔒 Closed issue [#173](https://github.com/adyanth/cloudflare-operator/issues/173) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🗣 Commented on [#173](https://github.com/adyanth/cloudflare-operator/issues/173#issuecomment-3249869993) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 5. 🎉 Merged PR [#32](https://github.com/adyanth/splitwise-firefly-sync/pull/32) in [adyanth/splitwise-firefly-sync](https://github.com/adyanth/splitwise-firefly-sync)
 <!--END_SECTION:activity-->
 
