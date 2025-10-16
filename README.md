@@ -42,10 +42,10 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22#issuecomment-3347855843) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
-2. 🗣 Commented on [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22#issuecomment-3346868499) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
-3. ❗ Opened issue [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
-4. 🔒 Closed issue [#173](https://github.com/adyanth/cloudflare-operator/issues/173) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#176](https://github.com/adyanth/cloudflare-operator/pull/176#issuecomment-3404529839) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🗣 Commented on [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22#issuecomment-3347855843) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
+3. 🗣 Commented on [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22#issuecomment-3346868499) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
+4. ❗ Opened issue [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
 5. 🗣 Commented on [#173](https://github.com/adyanth/cloudflare-operator/issues/173#issuecomment-3249869993) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
