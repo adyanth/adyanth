@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/adyanth/cloudflare-operator/issues/177#issuecomment-3418754644) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🔒 Closed issue [#177](https://github.com/adyanth/cloudflare-operator/issues/177) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#177](https://github.com/adyanth/cloudflare-operator/issues/177#issuecomment-3411005024) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#176](https://github.com/adyanth/cloudflare-operator/pull/176#issuecomment-3404529839) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🗣 Commented on [#22](https://github.com/sysgrok/rs-matter-embassy/issues/22#issuecomment-3347855843) in [sysgrok/rs-matter-embassy](https://github.com/sysgrok/rs-matter-embassy)
+1. 🗣 Commented on [#209](https://github.com/zxh326/kite/issues/209#issuecomment-3436852200) in [zxh326/kite](https://github.com/zxh326/kite)
+2. ❗ Opened issue [#209](https://github.com/zxh326/kite/issues/209) in [zxh326/kite](https://github.com/zxh326/kite)
+3. 🗣 Commented on [#177](https://github.com/adyanth/cloudflare-operator/issues/177#issuecomment-3418754644) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+4. 🔒 Closed issue [#177](https://github.com/adyanth/cloudflare-operator/issues/177) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#177](https://github.com/adyanth/cloudflare-operator/issues/177#issuecomment-3411005024) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
 </details>
