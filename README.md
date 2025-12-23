@@ -42,8 +42,8 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](undefined) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-2. ❗ Opened issue [#10704](https://github.com/adafruit/circuitpython/issues/10704) in [adafruit/circuitpython](https://github.com/adafruit/circuitpython)
+1. ❗ Opened issue [#900](https://github.com/HaveAGitGat/Tdarr_Plugins/issues/900) in [HaveAGitGat/Tdarr_Plugins](https://github.com/HaveAGitGat/Tdarr_Plugins)
+2. 💪 Opened PR [#53](undefined) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 3. 🗣 Commented on [#209](https://github.com/zxh326/kite/issues/209#issuecomment-3436852200) in [zxh326/kite](https://github.com/zxh326/kite)
 4. ❗ Opened issue [#209](https://github.com/zxh326/kite/issues/209) in [zxh326/kite](https://github.com/zxh326/kite)
 5. 🗣 Commented on [#177](https://github.com/adyanth/cloudflare-operator/issues/177#issuecomment-3418754644) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
