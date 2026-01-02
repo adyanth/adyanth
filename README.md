@@ -42,10 +42,10 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#900](https://github.com/HaveAGitGat/Tdarr_Plugins/issues/900) in [HaveAGitGat/Tdarr_Plugins](https://github.com/HaveAGitGat/Tdarr_Plugins)
-2. 💪 Opened PR [#53](undefined) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-3. 🗣 Commented on [#209](https://github.com/zxh326/kite/issues/209#issuecomment-3436852200) in [zxh326/kite](https://github.com/zxh326/kite)
-4. ❗ Opened issue [#209](https://github.com/zxh326/kite/issues/209) in [zxh326/kite](https://github.com/zxh326/kite)
+1. ℹ️ Labeled issue [#53](https://github.com/trykuna/app/issues/53) in [trykuna/app](https://github.com/trykuna/app)
+2. ❗ Opened issue [#53](https://github.com/trykuna/app/issues/53) in [trykuna/app](https://github.com/trykuna/app)
+3. ❗ Opened issue [#900](https://github.com/HaveAGitGat/Tdarr_Plugins/issues/900) in [HaveAGitGat/Tdarr_Plugins](https://github.com/HaveAGitGat/Tdarr_Plugins)
+4. 💪 Opened PR [#53](https://github.com/adyanth/shortpaste/pull/53) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
 5. 🗣 Commented on [#177](https://github.com/adyanth/cloudflare-operator/issues/177#issuecomment-3418754644) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
 <!--END_SECTION:activity-->
 
