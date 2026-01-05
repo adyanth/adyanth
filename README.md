@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#53](https://github.com/trykuna/app/issues/53) in [trykuna/app](https://github.com/trykuna/app)
-2. ❗ Opened issue [#53](https://github.com/trykuna/app/issues/53) in [trykuna/app](https://github.com/trykuna/app)
-3. ❗ Opened issue [#900](https://github.com/HaveAGitGat/Tdarr_Plugins/issues/900) in [HaveAGitGat/Tdarr_Plugins](https://github.com/HaveAGitGat/Tdarr_Plugins)
-4. 💪 Opened PR [#53](https://github.com/adyanth/shortpaste/pull/53) in [adyanth/shortpaste](https://github.com/adyanth/shortpaste)
-5. 🗣 Commented on [#177](https://github.com/adyanth/cloudflare-operator/issues/177#issuecomment-3418754644) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#579](https://github.com/philippe44/AirConnect/issues/579#issuecomment-3708175866) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
+2. 🗣 Commented on [#579](https://github.com/philippe44/AirConnect/issues/579#issuecomment-3707603751) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
+3. ❗ Opened issue [#579](https://github.com/philippe44/AirConnect/issues/579) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
+4. ℹ️ Labeled issue [#53](https://github.com/trykuna/app/issues/53) in [trykuna/app](https://github.com/trykuna/app)
+5. ❗ Opened issue [#53](https://github.com/trykuna/app/issues/53) in [trykuna/app](https://github.com/trykuna/app)
 <!--END_SECTION:activity-->
 
 </details>
