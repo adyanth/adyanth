@@ -42,9 +42,9 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/adyanth/cloudflare-operator/issues/179#issuecomment-3740797459) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#54](https://github.com/adyanth/openwrt-tailscale-enabler/issues/54#issuecomment-3717255290) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
-3. 🗣 Commented on [#579](https://github.com/philippe44/AirConnect/issues/579#issuecomment-3708175866) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
+1. ❗ Opened issue [#432](https://github.com/ClutchEngineering/Sidecar/issues/432) in [ClutchEngineering/Sidecar](https://github.com/ClutchEngineering/Sidecar)
+2. 🗣 Commented on [#179](https://github.com/adyanth/cloudflare-operator/issues/179#issuecomment-3740797459) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#54](https://github.com/adyanth/openwrt-tailscale-enabler/issues/54#issuecomment-3717255290) in [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler)
 4. 🗣 Commented on [#579](https://github.com/philippe44/AirConnect/issues/579#issuecomment-3707603751) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
 5. ❗ Opened issue [#579](https://github.com/philippe44/AirConnect/issues/579) in [philippe44/AirConnect](https://github.com/philippe44/AirConnect)
 <!--END_SECTION:activity-->
