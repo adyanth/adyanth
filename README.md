@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/streamnative/terraform-provider-pulsar/issues/184#issuecomment-3969032029) in [streamnative/terraform-provider-pulsar](https://github.com/streamnative/terraform-provider-pulsar)
-2. 🗣 Commented on [#1029](https://github.com/jesec/flood/issues/1029#issuecomment-3940221760) in [jesec/flood](https://github.com/jesec/flood)
-3. 🗣 Commented on [#1029](https://github.com/jesec/flood/issues/1029#issuecomment-3940206204) in [jesec/flood](https://github.com/jesec/flood)
-4. ❗ Opened issue [#184](https://github.com/streamnative/terraform-provider-pulsar/issues/184) in [streamnative/terraform-provider-pulsar](https://github.com/streamnative/terraform-provider-pulsar)
-5. 🗣 Commented on [#123](https://github.com/streamnative/terraform-provider-pulsar/issues/123#issuecomment-3928927319) in [streamnative/terraform-provider-pulsar](https://github.com/streamnative/terraform-provider-pulsar)
+1. 🔒 Closed issue [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+2. 🗣 Commented on [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979#issuecomment-4079368304) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+3. ❗ Opened issue [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+4. 🗣 Commented on [#184](https://github.com/streamnative/terraform-provider-pulsar/issues/184#issuecomment-3969032029) in [streamnative/terraform-provider-pulsar](https://github.com/streamnative/terraform-provider-pulsar)
+5. 🗣 Commented on [#1029](https://github.com/jesec/flood/issues/1029#issuecomment-3940221760) in [jesec/flood](https://github.com/jesec/flood)
 <!--END_SECTION:activity-->
 
 </details>
