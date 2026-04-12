@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1385](https://github.com/we-promise/sure/issues/1385) in [we-promise/sure](https://github.com/we-promise/sure)
-2. 🔒 Closed issue [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-3. 🗣 Commented on [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979#issuecomment-4079368304) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-4. ❗ Opened issue [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
-5. 🗣 Commented on [#1029](https://github.com/jesec/flood/issues/1029#issuecomment-3940221760) in [jesec/flood](https://github.com/jesec/flood)
+1. 🗣 Commented on [#9](https://github.com/adyanth/homebridge-plugin-command/issues/9#issuecomment-4229875304) in [adyanth/homebridge-plugin-command](https://github.com/adyanth/homebridge-plugin-command)
+2. ❗ Opened issue [#1385](https://github.com/we-promise/sure/issues/1385) in [we-promise/sure](https://github.com/we-promise/sure)
+3. 🔒 Closed issue [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+4. 🗣 Commented on [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979#issuecomment-4079368304) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
+5. ❗ Opened issue [#11979](https://github.com/firefly-iii/firefly-iii/issues/11979) in [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)
 <!--END_SECTION:activity-->
 
 </details>
