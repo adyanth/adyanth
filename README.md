@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.1 Bugfix](https://github.com/adyanth/kasa-exporter/releases/tag/v0.2.1) in [adyanth/kasa-exporter](https://github.com/adyanth/kasa-exporter)
-2. 🗣 Commented on [#1432](https://github.com/espressif/esp-matter/issues/1432#issuecomment-5099066624) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
-3. 🚀 Published release [v0.2.0 Resilient exporter](https://github.com/adyanth/kasa-exporter/releases/tag/v0.2.0) in [adyanth/kasa-exporter](https://github.com/adyanth/kasa-exporter)
-4. 🗣 Commented on [#1432](https://github.com/espressif/esp-matter/issues/1432#issuecomment-5086559937) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
-5. 🗣 Commented on [#6067](https://github.com/usememos/memos/issues/6067#issuecomment-5085206074) in [usememos/memos](https://github.com/usememos/memos)
+1. 🗣 Commented on [#24795](https://github.com/bazelbuild/bazel/issues/24795#issuecomment-5297459405) in [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
+2. 🚀 Published release [v0.2.1 Bugfix](https://github.com/adyanth/kasa-exporter/releases/tag/v0.2.1) in [adyanth/kasa-exporter](https://github.com/adyanth/kasa-exporter)
+3. 🗣 Commented on [#1432](https://github.com/espressif/esp-matter/issues/1432#issuecomment-5099066624) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
+4. 🚀 Published release [v0.2.0 Resilient exporter](https://github.com/adyanth/kasa-exporter/releases/tag/v0.2.0) in [adyanth/kasa-exporter](https://github.com/adyanth/kasa-exporter)
+5. 🗣 Commented on [#1432](https://github.com/espressif/esp-matter/issues/1432#issuecomment-5086559937) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
 <!--END_SECTION:activity-->
 
 </details>
