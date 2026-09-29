@@ -42,8 +42,8 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#911](https://github.com/objective-see/LuLu/issues/911#issuecomment-5464676203) in [objective-see/LuLu](https://github.com/objective-see/LuLu)
-2. 🗣 Commented on [#24795](https://github.com/bazelbuild/bazel/issues/24795#issuecomment-5297459405) in [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
+1. 🗣 Commented on [#1326](https://github.com/cppalliance/mrdocs/issues/1326#issuecomment-5875746930) in [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs)
+2. ❗ Opened issue [#1326](https://github.com/cppalliance/mrdocs/issues/1326) in [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs)
 3. 🗣 Commented on [#1432](https://github.com/espressif/esp-matter/issues/1432#issuecomment-5099066624) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
 4. 🚀 Published release [v0.2.0 Resilient exporter](https://github.com/adyanth/kasa-exporter/releases/tag/v0.2.0) in [adyanth/kasa-exporter](https://github.com/adyanth/kasa-exporter)
 5. 🗣 Commented on [#1432](https://github.com/espressif/esp-matter/issues/1432#issuecomment-5086559937) in [espressif/esp-matter](https://github.com/espressif/esp-matter)
