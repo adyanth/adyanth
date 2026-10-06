@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-5969060255) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-2. ℹ️ Labeled issue [#18270](https://github.com/jellyfin/jellyfin/issues/18270) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-3. ❗ Opened issue [#18270](https://github.com/jellyfin/jellyfin/issues/18270) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-4. 🗣 Commented on [#1326](https://github.com/cppalliance/mrdocs/issues/1326#issuecomment-5875746930) in [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs)
-5. ❗ Opened issue [#1326](https://github.com/cppalliance/mrdocs/issues/1326) in [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs)
+1. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-6009202037) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. 🗣 Commented on [#185](https://github.com/adyanth/cloudflare-operator/issues/185#issuecomment-6004786758) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-5969060255) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+4. ℹ️ Labeled issue [#18270](https://github.com/jellyfin/jellyfin/issues/18270) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+5. ❗ Opened issue [#18270](https://github.com/jellyfin/jellyfin/issues/18270) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 <!--END_SECTION:activity-->
 
 </details>
