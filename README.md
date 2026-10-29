@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#227](https://github.com/jellyfin/jellyfin-plugin-ldapauth/issues/227#issuecomment-6160602849) in [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth)
-2. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-6009202037) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-3. 🗣 Commented on [#185](https://github.com/adyanth/cloudflare-operator/issues/185#issuecomment-6004786758) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-4. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-5969060255) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-5. ℹ️ Labeled issue [#18270](https://github.com/jellyfin/jellyfin/issues/18270) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+1. ❗ Opened issue [#408](https://github.com/nook-browser/Nook/issues/408) in [nook-browser/Nook](https://github.com/nook-browser/Nook)
+2. 🗣 Commented on [#227](https://github.com/jellyfin/jellyfin-plugin-ldapauth/issues/227#issuecomment-6160602849) in [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth)
+3. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-6009202037) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+4. 🗣 Commented on [#185](https://github.com/adyanth/cloudflare-operator/issues/185#issuecomment-6004786758) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+5. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-5969060255) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 <!--END_SECTION:activity-->
 
 </details>
