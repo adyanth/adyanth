@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.14.0 Bump deps and misc](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.14.0) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. ❗ Opened issue [#408](https://github.com/nook-browser/Nook/issues/408) in [nook-browser/Nook](https://github.com/nook-browser/Nook)
-3. 🗣 Commented on [#227](https://github.com/jellyfin/jellyfin-plugin-ldapauth/issues/227#issuecomment-6160602849) in [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth)
-4. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-6009202037) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-5. 🗣 Commented on [#185](https://github.com/adyanth/cloudflare-operator/issues/185#issuecomment-6004786758) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#187](https://github.com/adyanth/cloudflare-operator/issues/187#issuecomment-6594372133) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+2. 🚀 Published release [v0.14.0 Bump deps and misc](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.14.0) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+3. ❗ Opened issue [#408](https://github.com/nook-browser/Nook/issues/408) in [nook-browser/Nook](https://github.com/nook-browser/Nook)
+4. 🗣 Commented on [#227](https://github.com/jellyfin/jellyfin-plugin-ldapauth/issues/227#issuecomment-6160602849) in [jellyfin/jellyfin-plugin-ldapauth](https://github.com/jellyfin/jellyfin-plugin-ldapauth)
+5. 🗣 Commented on [#18270](https://github.com/jellyfin/jellyfin/issues/18270#issuecomment-6009202037) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 <!--END_SECTION:activity-->
 
 </details>
