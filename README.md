@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#187](https://github.com/adyanth/cloudflare-operator/issues/187) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-2. 🗣 Commented on [#187](https://github.com/adyanth/cloudflare-operator/issues/187#issuecomment-6606128471) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-3. 🗣 Commented on [#8](https://github.com/mikkelam/fast-cli/issues/8#issuecomment-6596265290) in [mikkelam/fast-cli](https://github.com/mikkelam/fast-cli)
-4. 🗣 Commented on [#187](https://github.com/adyanth/cloudflare-operator/issues/187#issuecomment-6594372133) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
-5. 🚀 Published release [v0.14.0 Bump deps and misc](https://github.com/adyanth/cloudflare-operator/releases/tag/v0.14.0) in [adyanth/cloudflare-operator](https://github.com/adyanth/cloudflare-operator)
+1. 🗣 Commented on [#23323](https://github.com/microsoft/vscode-mssql/issues/23323#issuecomment-7047876757) in [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
+2. ℹ️ Labeled issue [#1272](https://github.com/pauljoda/Crest/issues/1272) in [pauljoda/Crest](https://github.com/pauljoda/Crest)
+3. ❗ Opened issue [#1272](https://github.com/pauljoda/Crest/issues/1272) in [pauljoda/Crest](https://github.com/pauljoda/Crest)
+4. 🔒 Closed issue [#23323](https://github.com/microsoft/vscode-mssql/issues/23323) in [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
+5. ℹ️ Labeled issue [#887](https://github.com/microsoft/DacFx/issues/887) in [microsoft/DacFx](https://github.com/microsoft/DacFx)
 <!--END_SECTION:activity-->
 
 </details>
