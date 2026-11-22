@@ -43,8 +43,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23323](https://github.com/microsoft/vscode-mssql/issues/23323#issuecomment-7047876757) in [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
-2. ℹ️ Labeled issue [#1272](https://github.com/pauljoda/Crest/issues/1272) in [pauljoda/Crest](https://github.com/pauljoda/Crest)
-3. ❗ Opened issue [#1272](https://github.com/pauljoda/Crest/issues/1272) in [pauljoda/Crest](https://github.com/pauljoda/Crest)
+2. ℹ️ Labeled issue [#1272](https://github.com/crest-browser/Crest/issues/1272) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
+3. ❗ Opened issue [#1272](https://github.com/crest-browser/Crest/issues/1272) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
 4. 🔒 Closed issue [#23323](https://github.com/microsoft/vscode-mssql/issues/23323) in [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
 5. ℹ️ Labeled issue [#887](https://github.com/microsoft/DacFx/issues/887) in [microsoft/DacFx](https://github.com/microsoft/DacFx)
 <!--END_SECTION:activity-->
