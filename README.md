@@ -42,11 +42,11 @@
 ## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23323](https://github.com/microsoft/vscode-mssql/issues/23323#issuecomment-7047876757) in [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
-2. ℹ️ Labeled issue [#1272](https://github.com/crest-browser/Crest/issues/1272) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
-3. ❗ Opened issue [#1272](https://github.com/crest-browser/Crest/issues/1272) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
-4. 🔒 Closed issue [#23323](https://github.com/microsoft/vscode-mssql/issues/23323) in [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
-5. ℹ️ Labeled issue [#887](https://github.com/microsoft/DacFx/issues/887) in [microsoft/DacFx](https://github.com/microsoft/DacFx)
+1. ❗ Opened issue [#1363](https://github.com/crest-browser/Crest/issues/1363) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
+2. ❗ Opened issue [#1362](https://github.com/crest-browser/Crest/issues/1362) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
+3. ℹ️ Labeled issue [#1363](https://github.com/crest-browser/Crest/issues/1363) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
+4. ℹ️ Labeled issue [#1362](https://github.com/crest-browser/Crest/issues/1362) in [crest-browser/Crest](https://github.com/crest-browser/Crest)
+5. 🗣 Commented on [#23323](https://github.com/microsoft/vscode-mssql/issues/23323#issuecomment-7047876757) in [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)
 <!--END_SECTION:activity-->
 
 </details>
